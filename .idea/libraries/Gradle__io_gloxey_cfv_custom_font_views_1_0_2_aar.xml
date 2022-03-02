@@ -1,0 +1,45 @@
+<component name="libraryTable">
+  <library name="Gradle: io.gloxey.cfv:custom-font-views:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7a0c7fbb952df558b608b710717fe1f/jetified-custom-font-views-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7a0c7fbb952df558b608b710717fe1f/jetified-custom-font-views-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7a0c7fbb952df558b608b710717fe1f/jetified-custom-font-views-1.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1ba0c2e70401f8b7d3d74b3e0d07180/jetified-custom-font-views-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1ba0c2e70401f8b7d3d74b3e0d07180/jetified-custom-font-views-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f1ba0c2e70401f8b7d3d74b3e0d07180/jetified-custom-font-views-1.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ced90f0c1ce7166d7a575a7cc64faf23/jetified-custom-font-views-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ced90f0c1ce7166d7a575a7cc64faf23/jetified-custom-font-views-1.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ced90f0c1ce7166d7a575a7cc64faf23/jetified-custom-font-views-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92a10c0bb09410a9a5fe85eede03f6b9/jetified-custom-font-views-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92a10c0bb09410a9a5fe85eede03f6b9/jetified-custom-font-views-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/92a10c0bb09410a9a5fe85eede03f6b9/jetified-custom-font-views-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70b328bf98c40e037fec94e26e78b1eb/jetified-custom-font-views-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70b328bf98c40e037fec94e26e78b1eb/jetified-custom-font-views-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70b328bf98c40e037fec94e26e78b1eb/jetified-custom-font-views-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75aebd5145957103a12e2f13de13c186/jetified-custom-font-views-1.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75aebd5145957103a12e2f13de13c186/jetified-custom-font-views-1.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/75aebd5145957103a12e2f13de13c186/jetified-custom-font-views-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b636aa7c563c75b49e53fdc2e2c7b3ac/jetified-custom-font-views-1.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b636aa7c563c75b49e53fdc2e2c7b3ac/jetified-custom-font-views-1.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b636aa7c563c75b49e53fdc2e2c7b3ac/jetified-custom-font-views-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3fe7fb5596844f9081b66b334e7cabe6/jetified-custom-font-views-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3fe7fb5596844f9081b66b334e7cabe6/jetified-custom-font-views-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3fe7fb5596844f9081b66b334e7cabe6/jetified-custom-font-views-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3179112431bd6c5441ba753f541ca265/jetified-custom-font-views-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3179112431bd6c5441ba753f541ca265/jetified-custom-font-views-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3179112431bd6c5441ba753f541ca265/jetified-custom-font-views-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5af4153c9c21e71d92551464d6dec48/jetified-custom-font-views-1.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5af4153c9c21e71d92551464d6dec48/jetified-custom-font-views-1.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5af4153c9c21e71d92551464d6dec48/jetified-custom-font-views-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73d8e3f5a02fb899aae8dd48b059911b/jetified-custom-font-views-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73d8e3f5a02fb899aae8dd48b059911b/jetified-custom-font-views-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/73d8e3f5a02fb899aae8dd48b059911b/jetified-custom-font-views-1.0.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gloxey.cfv/custom-font-views/1.0.2/b0a265ac94c69c9e97f19bcdbbbafd632dd464f6/custom-font-views-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.gloxey.cfv/custom-font-views/1.0.2/55cbca1adea522f1ef472670e917e95dd3c393e7/custom-font-views-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

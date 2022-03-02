@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+
+            android:id="@+id/banner_container"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="vertical" />
+
+        <ImageButton
+            android:id="@+id/video_select_button"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="120dp"
+            android:background="@android:color/transparent"
+            android:onClick="video_on_clicked"
+            app:srcCompat="@drawable/ic_slow_motion_video_black_24dp" />
+
+        <com.github.ybq.android.spinkit.SpinKitView
+            android:id="@+id/spin_kit"
+            style="@style/SpinKitView.Large.FadingCircle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="120dp"
+            app:SpinKit_Color="@color/colorPrimary" />
+
+        <RelativeLayout
+            android:id="@+id/main_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageButton
+                android:id="@+id/img_thumb"
+                android:layout_width="300dp"
+                android:layout_height="300dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="50dp"
+                android:background="@android:color/transparent"
+                android:onClick="video_on_clicked" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/img_thumb"
+                android:gravity="center_horizontal"
+                android:text="@string/select_video"
+                android:textAlignment="center"
+                android:textSize="22dp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="70dp"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/txt_sound_on"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:text="@string/sound_on"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/txt_sound_on"
+                        android:layout_gravity="center_vertical"
+                        android:text="@string/open_sound_of_video"
+                        android:textSize="11dp" />
+
+                    <CheckBox
+                        android:id="@+id/checkbox_sound"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:button="@drawable/custom_checkbox"
+                        android:checked="false"
+                        android:scaleX="0.6"
+                        android:scaleY="0.6" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/play_begin"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="4"
+                        android:text="@string/sound_play_begin"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/play_begin"
+                        android:layout_gravity="center_vertical"
+                        android:text="@string/play_video_begin_des"
+                        android:textSize="11dp" />
+
+                    <CheckBox
+                        android:id="@+id/checkbox_play_begin"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_weight="1"
+                        android:button="@drawable/custom_checkbox"
+                        android:checked="false"
+                        android:scaleX="0.6"
+                        android:scaleY="0.6" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/txt_battery_saver"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:text="@string/battery_saver"
+                        android:textSize="22dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/txt_battery_saver"
+                        android:layout_gravity="center_vertical"
+                        android:text="@string/save_battery"
+                        android:textSize="11dp" />
+
+                    <CheckBox
+                        android:id="@+id/checkbox_battery"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:button="@drawable/custom_checkbox"
+                        android:checked="false"
+                        android:scaleX="0.6"
+                        android:scaleY="0.6" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <Button
+                android:layout_width="250dp"
+                android:layout_height="45dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/gradienteditext"
+                android:onClick="set_up_video_clicked"
+                android:text="@string/set_up_video_wallpaper"
+                android:textColor="@android:color/white" />
+        </RelativeLayout>
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

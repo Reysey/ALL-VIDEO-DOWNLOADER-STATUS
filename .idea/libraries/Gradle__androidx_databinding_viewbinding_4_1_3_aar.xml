@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.databinding:viewbinding:4.1.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5a6c5b9f157727e7b28712b41dd62af/jetified-viewbinding-4.1.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c6f1bced3f6d9ef059435cadd65ac46/jetified-viewbinding-4.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c6f1bced3f6d9ef059435cadd65ac46/jetified-viewbinding-4.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3c6f1bced3f6d9ef059435cadd65ac46/jetified-viewbinding-4.1.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/998320c9a0b6bc25e86f6895ff4132c0/jetified-viewbinding-4.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/998320c9a0b6bc25e86f6895ff4132c0/jetified-viewbinding-4.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/998320c9a0b6bc25e86f6895ff4132c0/jetified-viewbinding-4.1.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/be18dc67fdc2cd041a4e6a4bfd6891fe/jetified-viewbinding-4.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8186162ff93eca9dedecca96d9f0a4d1/jetified-viewbinding-4.1.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8186162ff93eca9dedecca96d9f0a4d1/jetified-viewbinding-4.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8186162ff93eca9dedecca96d9f0a4d1/jetified-viewbinding-4.1.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.databinding/viewbinding/4.1.3/9c6cc3c62bca78b82a07a94316b961e4f77c7359/viewbinding-4.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

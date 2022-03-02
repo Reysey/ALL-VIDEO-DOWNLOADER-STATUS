@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="370dp"
+    android:layout_gravity="center"
+    app:cardBackgroundColor="@color/md_white_1000"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="0dp"
+    app:cardPreventCornerOverlap="true"
+    app:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/md_white_1000"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="7dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:src="@drawable/ic_review" />
+
+        <TextView
+            android:id="@+id/txt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:padding="3dp"
+            android:text="@string/ultimately_its_all_about_love_nrate_now"
+            android:textColor="@color/colorTransparentBlack"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txt1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:padding="3dp"
+            android:text="@string/do_you_find_our_new_version_n_more_beautiful_more_playful_amp_more_useful_nif_yes_show_us_your_love"
+            android:textColor="@android:color/darker_gray"
+            android:textSize="13sp" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/notnow_dialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/black_overlay"
+                android:text="@string/not_now"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="13sp"
+                app:backgroundTint="@color/black_overlay"
+                app:cornerRadius="8dp"
+                app:rippleColor="@color/colorAccent" />
+
+
+            <Button
+                android:id="@+id/rateus_dialog"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="15dp"
+                android:background="@color/colorPrimaryDark"
+                android:text="@string/rate_us"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                android:textSize="13sp"
+                app:backgroundTint="@color/colorPrimaryDark"
+                app:cornerRadius="8dp"
+                app:rippleColor="@color/colorAccent" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

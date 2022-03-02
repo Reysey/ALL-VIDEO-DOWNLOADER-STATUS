@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Shashank02051997:FancyToast-Android:0.1.6@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f35e0643323ca80c886ccbe60a7cf042/jetified-FancyToast-Android-0.1.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f35e0643323ca80c886ccbe60a7cf042/jetified-FancyToast-Android-0.1.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f35e0643323ca80c886ccbe60a7cf042/jetified-FancyToast-Android-0.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91ab9b6ad4798f2caa845008da5e0d9f/jetified-FancyToast-Android-0.1.6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91ab9b6ad4798f2caa845008da5e0d9f/jetified-FancyToast-Android-0.1.6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/91ab9b6ad4798f2caa845008da5e0d9f/jetified-FancyToast-Android-0.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/392423ee74613d7b1f5714197df46a82/jetified-FancyToast-Android-0.1.6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/392423ee74613d7b1f5714197df46a82/jetified-FancyToast-Android-0.1.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/392423ee74613d7b1f5714197df46a82/jetified-FancyToast-Android-0.1.6/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Shashank02051997/FancyToast-Android/0.1.6/6617cc963f490ac6bfa539ae25bc57a9f9144f4/FancyToast-Android-0.1.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Shashank02051997/FancyToast-Android/0.1.6/1d1615435b7849c3f97c499b202de5a6600d1ada/FancyToast-Android-0.1.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

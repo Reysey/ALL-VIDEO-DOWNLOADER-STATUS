@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:ignore="MissingDefaultResource">
+
+    <TextView
+        android:id="@+id/l_english"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:text="English"
+        android:textSize="17sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.08dp"
+        android:background="#d9d9d9" />
+
+    <TextView
+        android:id="@+id/l_hindi"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:text="हिन्दी"
+        android:textSize="17sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.08dp"
+        android:background="#d9d9d9" />
+
+    <TextView
+        android:id="@+id/l_arabic"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:text="عربى"
+        android:textSize="17sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.08dp"
+        android:background="#d9d9d9" />
+
+    <TextView
+        android:id="@+id/l_urdu"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:text="اردو"
+        android:textSize="17sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.08dp"
+        android:background="#d9d9d9" />
+
+    <TextView
+        android:id="@+id/l_turkey"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:text="Türk"
+        android:textSize="17sp" />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.08dp"
+        android:background="#d9d9d9" />
+
+    <TextView
+        android:id="@+id/l_german"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:text="Deutsche"
+        android:textSize="17sp" />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.08dp"
+        android:background="#d9d9d9" />
+
+
+    <TextView
+        android:id="@+id/l_portougese"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:text="Português (Brazil)"
+        android:textSize="17sp" />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.08dp"
+        android:background="#d9d9d9" />
+
+    <TextView
+        android:id="@+id/l_chinese"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:text="中文"
+        android:textSize="17sp" />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.08dp"
+        android:background="#d9d9d9" />
+
+    <TextView
+        android:id="@+id/l_french"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:paddingStart="10dp"
+        android:paddingEnd="10dp"
+        android:text="French"
+        android:textSize="17sp" />
+
+</LinearLayout>

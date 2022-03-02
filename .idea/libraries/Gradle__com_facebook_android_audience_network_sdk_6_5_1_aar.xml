@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:audience-network-sdk:6.5.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6346bf5fa0050ceac36b74942354d455/jetified-audience-network-sdk-6.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d8173a8e164e4013c7dd79e96999f662/jetified-audience-network-sdk-6.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8a96eebde71500d781d7ef5c0569a540/jetified-audience-network-sdk-6.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f619b689b166a952ec5e7ba4c9d45d7/jetified-audience-network-sdk-6.5.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5fec1feb7a4c974d3042364b16ea465/jetified-audience-network-sdk-6.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5fec1feb7a4c974d3042364b16ea465/jetified-audience-network-sdk-6.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c5fec1feb7a4c974d3042364b16ea465/jetified-audience-network-sdk-6.5.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc99ce535486905e87e0bca4e36816c4/jetified-audience-network-sdk-6.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc99ce535486905e87e0bca4e36816c4/jetified-audience-network-sdk-6.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc99ce535486905e87e0bca4e36816c4/jetified-audience-network-sdk-6.5.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1d44a4b11d7fdd2c94ee55e493cabb4/jetified-audience-network-sdk-6.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1450b5831d7abd2cad499eb9074fd858/jetified-audience-network-sdk-6.5.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1450b5831d7abd2cad499eb9074fd858/jetified-audience-network-sdk-6.5.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1450b5831d7abd2cad499eb9074fd858/jetified-audience-network-sdk-6.5.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,343 @@
+<resources>
+    <string name="app_name">All Vídeo Downloader</string>
+
+
+    <string name="sintony">sintony-regular.otf</string>
+    <string name="developer_email">contato@nvhost.com.br</string>
+    <string name="privacy_message"><b>Estamos empenhados em proteger sua privacidade </b>\n\n Coletamos a quantidade mínima de informações sobre você, proporcional à prestação de um serviço satisfatório. Esta política indica o tipo de processos que podem resultar na coleta de dados sobre você. O uso deste site nos dá o direito de coletar essas informações. \n\n<b>Informações coletadas</b>\n\n  Podemos coletar toda ou qualquer informação que você nos fornecer, dependendo do tipo de transação realizada, incluindo seu nome, endereço, número de telefone e endereço de e-mail, juntamente com dados sobre o uso do site. Outras informações que possam ser necessárias periodicamente para processar uma solicitação também podem ser coletadas conforme indicado no site. \n\n <b>Uso da informação</b> \n\n Usamos as informações coletadas principalmente para processar a tarefa para a qual você visitou o site. Os dados coletados no Reino Unido são mantidos de acordo com a Lei de Proteção de Dados. Todas as precauções razoáveis ​​são tomadas para impedir o acesso não autorizado a essas informações. Essa proteção pode exigir que você forneça formas adicionais de identidade, caso deseje obter informações sobre os detalhes da sua conta. \n\n <b>Cookies</b> \n\n Seu navegador da Internet possui o recurso embutido para armazenar arquivos pequenos - \"cookies\" - que mantêm informações que permitem que um site reconheça sua conta. Nosso site aproveita essa facilidade para aprimorar sua experiência. Você tem a capacidade de impedir que seu computador aceite cookies, mas, se o fizer, determinadas funcionalidades do site podem ser prejudicadas. \n\n <b>Divulgação de Informações</b> \n\n Não divulgamos nenhuma informação pessoal obtida sobre você neste site a terceiros, a menos que você nos permita marcando as caixas relevantes nos formulários de inscrição ou concurso. Também podemos usar as informações para manter contato com você e informá-lo sobre os desenvolvimentos associados a nós. Você terá a oportunidade de se remover de qualquer lista de correspondência ou dispositivo similar. Se em algum momento no futuro desejarmos divulgar as informações coletadas neste site a terceiros, isso será apenas com o seu conhecimento e consentimento. Ocasionalmente, podemos fornecer informações de natureza geral a terceiros - por exemplo, o número de pessoas que visitam nosso site ou preenchem um formulário de registro, mas não usaremos nenhuma informação que possa identificar esses indivíduos. Além disso, a Dummy pode trabalhar com terceiros com o objetivo de fornecer publicidade comportamental direcionada ao site da Dummy. Através do uso de cookies, informações anônimas sobre o uso de nossos sites e outros sites serão usadas para fornecer anúncios mais relevantes sobre produtos e serviços de seu interesse. Para obter mais informações sobre publicidade comportamental on-line e sobre como desativar esse recurso, visite etube.nvhost.com.br. \n\n <b>Alterações nesta política</b> \n\n Quaisquer alterações à nossa Política de Privacidade serão colocadas aqui e substituirão esta versão da nossa política. Tomaremos medidas razoáveis ​​para chamar sua atenção para quaisquer alterações em nossa política. No entanto, para garantir a segurança, sugerimos que você leia este documento sempre que usar o site para garantir que ele ainda atenda à sua aprovação. \n\n <b>Como entrar em contato</b> \n\n Se você tiver alguma dúvida sobre nossa Política de Privacidade, ou se quiser saber quais informações foram coletadas sobre você, envie um email para contato@nvhost.com.br. Você também pode corrigir quaisquer erros factuais nessas informações ou exigir que removamos seus detalhes de qualquer lista sob nosso controle.</string>
+    <string name="gallery_name">Galeria</string>
+
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="str_developed_with_love">Desenvolvido com ❤ <b> Obrigado por usar!</b></string>
+
+
+    <string name="info_permission_denied">Desculpe permissão negada. Não podemos abrir este aplicativo no seu dispositivo, tente novamente mais tarde.</string>
+    <string name="format_request_permision">%1$s precisará ter permissão de leitura / gravação no seu sdcard para salvar arquivos. Deseja conceder?</string>
+
+
+    <string name="SharingVideoSubject">Compartilhando o vídeo baixado</string>
+    <string name="SharingVideoTitle">Compartilhando vídeo</string>
+    <string name="SharingVideoBody">Compartilhando Video via Etube, Baixe os seus videos das redes sociais mais populares com o Etube - https://play.google.com/store/apps/details?id=com.nvhost.etube</string>
+
+    <string name="RateAppTitle">Gostou deste aplicativo?</string>
+    <string name="RateApp">Compartilhe o amor classificando 5 estrelas na Play Store. 😘</string>
+    <string name="how_to_download_videos">Como baixar vídeos?</string>
+    <string name="share_the_video_to_aio_video_downloader_app_or">" • Compartilhe o vídeo no aplicativo Etube (ou)"</string>
+    <string name="simply_copy_the_link_of_any_video">• Simplesmente copie o link de qualquer vídeo</string>
+    <string name="make_sure_auto_download_service_is_running">• Verifique se o \'Download Automático\' está ativado</string>
+    <string name="paste_video_url_here">Cole o URL do vídeo aqui ...</string>
+    <string name="download">Baixar</string>
+    <string name="options">Opções</string>
+    <string name="no_watermark">Nenhuma marca d\'água</string>
+    <string name="remove_watermark_from_downloaded_video">Remover marca d\'água do vídeo baixado</string>
+    <string name="auto_download">Download automático</string>
+    <string name="simply_copy_the_link_of_video_to_start_download">Basta copiar o link do vídeo para iniciar o download</string>
+    <string name="currently_supports">Atualmente suporta</string>
+    <string name="tiktok">TikTok</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="youtube">Youtube</string>
+    <string name="dailymotion">Dailymotion</string>
+    <string name="topbuzz">TopBuzz</string>
+    <string name="twitter">Twitter</string>
+    <string name="viemo">Viemo</string>
+    <string name="message_title">Título da mensagem</string>
+    <string name="message_content">Conteúdo da mensagem</string>
+    <string name="auto_download_not_working">O Download automático não está funcionando?</string>
+    <string name="make_sure_app_is_running_in_background">• Verifique se o aplicativo está sendo executado em segundo plano</string>
+    <string name="restart_the_app_if_that_doesn_t_work">• Reinicie o aplicativo se isso não funcionar</string>
+    <string name="contact_developer_before_leaving_a_negative_review">• Entre em contato com o desenvolvedor antes de deixar um comentário negativo</string>
+    <string name="author">Autor</string>
+    <string name="music_author">Música - Autor</string>
+    <string name="description_goes_here">Descrição vai aqui</string>
+    <string name="starting_download">Iniciando o download ...</string>
+    <string name="watch">VER</string>
+    <string name="download_fragment">Baixar</string>
+    <string name="gallery_fragment">Galeria</string>
+    <string name="grant_option">Conceder</string>
+    <string name="permission_title">Permissão necessária!</string>
+    <string name="cancel_option">Cancelar</string>
+    <string name="rate_dialog">ACEITAR</string>
+    <string name="later_btn">MAIS TARDE</string>
+    <string name="auto_download_title_notification">Serviço de Download Automático</string>
+    <string name="auto_download_title_notification_start">Copie o link do vídeo para iniciar o download</string>
+    <string name="stop_btn">Pare</string>
+    <string name="restarted_service">Serviço reiniciado</string>
+    <string name="downloading_des">Baixando</string>
+    <string name="url_not_suppotr">Este URL não é suportado ou nenhuma mídia encontrada!</string>
+    <string name="we_cant_allow">Não podemos permitir o download de vídeos deste site.</string>
+    <string name="genarating_download_link">Gerando link para download</string>
+    <string name="somthing">Algo deu errado!</string>
+    <string name="delete_confirm">\"O vídeo selecionado será excluído permanentemente. Esta ação não pode ser desfeita.\"</string>
+    <string name="don_start">Baixando Iniciar!</string>
+    <string name="somth_video_wrong">\"Ocorreu um erro ao reproduzir o vídeo! Tente novamente\"</string>
+    <string name="went_shARRE">\"Ocorreu um erro ao compartilhar o vídeo! Tente novamente\"</string>
+    <string name="error_occ">Ocorreu um erro!</string>
+    <string name="install_fb">Instale o aplicativo do facebook</string>
+    <string name="install_tik">Instale o aplicativo Tiktok</string>
+    <string name="install_ins">Instale o aplicativo Instagaram</string>
+    <string name="enter_valid">Digite um URI válido</string>
+    <string name="aio_auto">Download automático</string>
+
+    <string name="hello_blank_fragment">Olá fragmento em branco</string>
+    <string name="StatusSaver">Status</string>
+    <string name="video_downloader_gallery">Galeria de Videos</string>
+    <string name="status_saver_gallery">Galeria de Status</string>
+    <string name="appnotinstalled">O WhatsApp não está instalado Por favor, instale-o</string>
+    <string name="privacy">POLÍTICA DE PRIVACIDADE</string>
+    <string name="language">Língua</string>
+    <string name="open_whatsapp">Abra o WhatsApp</string>
+    <string name="rate_us">Nos avalie</string>
+    <string name="privacytxt">Privacidade</string>
+    <string name="delete">Excluir</string>
+    <string name="select_quality">Selecione Qualidade</string>
+    <string name="noApp_f">Nenhum aplicativo encontrado para abrir este arquivo.</string>
+    <string name="file_del">Arquivo foi deletado</string>
+    <string name="are_sure_del">Tem certeza de que deseja excluir este arquivo?</string>
+    <string name="del_tit">EXCLUIR?</string>
+    <string name="nn">Não</string>
+    <string name="yyy">Sim</string>
+    <string name="vidd">\" vídeo?\"</string>
+    <string name="selected_i">\" Selecionado\"</string>
+    <string name="choose">Escolher</string>
+    <string name="watch_arr">Ver</string>
+    <string name="del_arr">Excluir</string>
+    <string name="share_arr">Compartilhar</string>
+    <string name="saved_to">\"Salvo em:\"</string>
+    <string name="refre">Atualizado!</string>
+    <string name="pernecessory">Permissão necessária</string>
+    <string name="write_neesory">A permissão de gravação de armazenamento é necessária para baixar imagens e vídeos !!!</string>
+    <string name="yes">sim</string>
+    <string name="stor_saver">\"Status do WhatsApp:\"</string>
+    <string name="se1">PASSO 1</string>
+    <string name="se_2">PASSO 2</string>
+    <string name="se_3">PASSO 3</string>
+    <string name="tap_wp">Toque para abrir o WhatsApp.</string>
+    <string name="vie_rec">Veja histórias recentes e economizador de status aberto.</string>
+    <string name="dow_sto">Baixe as Histórias que você deseja!</string>
+    <string name="invalid_url">URL de vídeo inválido ou verificar conexão com a Internet</string>
+    <string name="savedstt">\"Status Salvos:\"</string>
+    <string name="install_ytd">Instale o aplicativo do Youtube</string>
+    <string name="install_twi">Instale o aplicativo do Twitter</string>
+    <string name="install_topbuzz">Instale o aplicativo Topbuzz</string>
+    <string name="install_viemoo">Instale o aplicativo Vimeo</string>
+
+
+    <string name="play_video_begin_des">Reproduzir vídeo do início quando retornar à tela inicial</string>
+    <string name="battery_saver">Economizador de bateria</string>
+    <string name="save_battery">Economize bateria</string>
+    <string name="select_video">Selecionar vídeo</string>
+    <string name="set_up_video_wallpaper">Configurar papel de parede de vídeo</string>
+    <string name="set_wallpaper">Definir papel de parede</string>
+    <string name="sound_on">Som ligado</string>
+    <string name="sound_play_begin">Tocar desde o início</string>
+    <string name="open_sound_of_video">Som aberto do vídeo</string>
+    <string name="error_emty_video">Erro! Escolheu o vídeo</string>
+    <string name="please_select_video">Por favor, selecione Video</string>
+    <string name="rate_it">Está bem</string>
+
+    <string name="alert">Alerta</string>
+    <string name="cancel">Cancelar</string>
+    <string name="txt_exit">Você quer sair?</string>
+    <string name="app_description">Video Wallpaper</string>
+    <string name="extrafeatures">Extras</string>
+    <string name="loading">Carregando, . . .</string>
+    <string name="tik_inaspp">Tiktok Inapp View</string>
+
+
+    <string name="open" translatable="false">Abrir</string>
+    <string name="close" translatable="false">Fechar</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="share">Compartilhar</string>
+    <string name="rate_app">Rate App</string>
+    <string name="more_apps">Mais aplicativos</string>
+    <string name="copy_youtube">cópia de</string>
+    <string name="copy_done">Copiado</string>
+    <string name="contact_us">Contate-Nos</string>
+    <string name="about_us">Sobre nós</string>
+    <string name="dashboard">Início</string>
+
+    <!--Privacy Policy , Contact us , About Us -->
+    <string name="about_us_content">Your Info Here</string>
+    <string name="privacy_policy_content" translatable="false">política de privacidade</string>
+    <string name="contact_us_content">informações de contato</string>
+
+
+    <!-- GDPR -->
+    <string name="update_consent" translatable="false">Alterar ou revogar o consentimento</string>
+    <string name="privacy_policy_url" translatable="false">https://etube.nvhost.com.br/privacy</string>
+    <string name="publisher_id" translatable="false">pub-5604024174021337</string>
+    <string name="hashtags_copied">Hashtags copiadas</string>
+    <string name="ytd_hashtag">Youtube Gerador de Hashtags</string>
+
+
+    <string name="tags_activity">Tags</string>
+
+    <string name="do_you_want_open_insta">Você quer abrir o Instagram</string>
+    <string name="btn_no">Não</string>
+    <string name="btn_yes">Sim</string>
+    <string name="title_activity_help">Socorro</string>
+    <string name="title_activity_settings">Definições</string>
+    <string name="setting_label_app_name">Nome da Aplicação</string>
+    <string name="setting_label_version">Versão de compilação</string>
+    <string name="setting_label_help">Ajuda</string>
+    <string name="setting_title_help">Como usar este aplicativo?</string>
+    <string name="setting_label_rate">Nos avalie</string>
+    <string name="setting_title_rate">Ajude-nos com sua avaliação positiva</string>
+    <string name="setting_label_share">Compartilhe</string>
+    <string name="setting_title_share">Compartilhe nosso aplicativo com seus amigos e familiares</string>
+    <string name="setting_label_contact">Contate-Nos</string>
+    <string name="setting_title_contact">Ajude-nos a melhorar nossa aplicação</string>
+    <string name="setting_label_privacy">Política de Privacidade</string>
+    <string name="setting_title_privacy">Verifique nossa política de privacidade aqui</string>
+    <string name="mssg_share">Ei, meu (s) amigo (s), confira este aplicativo incrível</string>
+    <string name="share_via">Compartilhar via</string>
+    <string name="subject">Assunto aqui</string>
+    <string name="improvement_title">Comentários</string>
+    <string name="improvement">Diga-nos onde podemos melhorar o mais rápido possível</string>
+    <string name="submit_btn">Enviar</string>
+    <string name="never_btn">Nunca</string>
+    <string name="rate_later_btn">Agora não</string>
+    <string name="rate_message">Por favor, compartilhe-nos como foi sua experiência conosco?</string>
+    <string name="update_title">Nova atualização disponível</string>
+    <string name="update_mssg">Confira a versão mais recente disponível para obter os recursos e correções de bugs mais recentes</string>
+    <string name="positive_btn">Atualizar agora</string>
+    <string name="negative_btn">Mais tarde</string>
+    <string name="btn_copy_open_insta">Copie &#38; e abra o instagram</string>
+    <string name="btn_copy">copiar</string>
+    <string name="btn_rate">AVALIAR</string>
+    <string name="btn_share">COMPART.</string>
+    <string name="btn_settings">CONFIG.</string>
+    <string name="big_title_splash">Torne-se mais popular e encontre hashtags!</string>
+    <string name="small_title_spalsh">Você saberá como ser mais popular, obter mais gostos e seguidores orgânicos de pessoas reais.</string>
+    <string name="btn_star">COMEÇAR</string>
+    <string name="ver">\"Versão \"</string>
+    <string name="copydb">Sucesso ao copiar o Banco de Dados</string>
+    <string name="dopydb">Erro de cópia de dados</string>
+    <string name="gallery_fragment_statussaver">Galeria</string>
+    <string name="StatusSaver_gallery">Galeria de status</string>
+    <string name="likee">Likee</string>
+    <string name="view_more_supported_apps">Veja outros aplicativos suportados</string>
+    <string name="error_occord_while">Ocorreu um erro ao abrir o aplicativo, abra-o manualmente</string>
+    <string name="open_gallery">Visite a Galeria</string>
+    <string name="doyouseead">Para ativar o download automático, você deve assistir a um anúncio. Você quer ver um?</string>
+    <string name="watchad">Assista ao anúncio em vídeo</string>
+    <string name="enabAuto">Ativar download automático</string>
+    <string name="completad">Você deve assistir ao anúncio completo</string>
+    <string name="videofailedload">Falha ao carregar o anúncio em vídeo recompensado</string>
+    <string name="videonotavaliabl">Vídeo de recompensa não disponível</string>
+    <string name="show_businesswhatsapp">Show Business Whatsapp</string>
+    <string name="show_mainwhatsapp">Principais status do WhatsApp</string>
+    <string name="supported_social_networking_apps">Aplicativos de redes sociais suportados</string>
+    <string name="other_supported_apps">Outros aplicativos suportados</string>
+    <string name="ultimately_its_all_about_love_nrate_now">Em última análise, é tudo sobre amor</string>
+    <string name="do_you_find_our_new_version_n_more_beautiful_more_playful_amp_more_useful_nif_yes_show_us_your_love">Você acha nossa nova versão \n mais bonita, mais divertida e mais útil? \nSe sim, mostre seu amor.</string>
+    <string name="not_now">Agora não</string>
+    <string name="step_1">PASSO 1:</string>
+    <string name="send">Enviar</string>
+    <string name="repost">Repost</string>
+    <string name="more_features_coming_soon">Mais recursos em breve</string>
+    <string name="coming_soon">Em breve</string>
+    <string name="tool_that_help_you_to_grow_your_profile_get_more_organic_likes_and_followers">A ferramenta que ajuda você a aumentar seu perfil e obter mais curtidas e seguidores orgânicos</string>
+    <string name="instagram_hashtags_likes_and_followers">Hashtags do Instagram - gostos e seguidores</string>
+    <string name="genarate_the_best_hashtags_for_youtube">Gere as melhores hashtags para o Youtube</string>
+    <string name="youtube_hashtag_genarator">Gerador de hashtags do YouTube</string>
+    <string name="no_need_to_install_tiktok_app_open_tiktok_here">Não é necessário instalar o Tiktok App Abra o Tiktok aqui</string>
+    <string name="select_a_video_and_make_it_your_live_video_wallpaper">Selecione um vídeo e faça dele o seu papel de parede de vídeo ao vivo</string>
+    <string name="live_video_wallpaper">Live Video Wallpaper</string>
+    <string name="download_mp3">Baixar Mp3</string>
+    <string name="or">OU</string>
+    <string name="without_watermark">" Nota: os arquivos Mp3 estarão localizados na pasta de downloads do aplicativo, por enquanto não serão mostrados na galeria do aplicativo."</string>
+    <string name="which_video_type_do_you_want_to_download_n_n_note_mp3_files_will_be_located_in_the_app_downloads_folder_it_will_not_be_shown_in_the_gallery_of_the_app_for_now">Que tipo de vídeo você deseja baixar?</string>
+    <string name="are_you_sure_you_want_to_exit">Você tem certeza que quer sair ?</string>
+    <string name="change_the_consent_settings">Altere as configurações de consentimento!</string>
+    <string name="consent_sdk">Consent SDK</string>
+    <string name="_3_finaly_past_those_hashtags_on_your_post_and_wait_to_get_the_organic_likes_and_followers">3- Finally past those hashtags on your post and wait to get the organic likes and followers</string>
+    <string name="_2_after_that_copy_the_hashtags_by_click_on_copy_button_or_click_on_copy_38_open_instagram">2- Depois disso, copie as hashtags clicando no botão COPY ou em COPY &amp; OPEN INSTAGRAM</string>
+    <string name="_1_then_you_can_choose_the_sub_categorie_that_you_need_to_use">1- Então você pode escolher as subcategorias que você precisa usar</string>
+    <string name="step_2">PASSO 2:</string>
+    <string name="firstly_you_need_to_choose_the_categorie_of_the_tags_that_you_need_to_use_in_your_instagrame_post_or_in_other_social_media">Primeiro, você precisa escolher a categoria das tags que você deve usar na sua postagem do Instagram ou em outras mídias sociais</string>
+    <string name="with_watermark">Com marca d\'água</string>
+    <string name="sharechat">ShareChat</string>
+    <string name="install_sharechat">instalar app sharechat</string>
+    <string name="install_roposo">install Roposo</string>
+    <string name="install_likee">install Likee</string>
+    <string name="download_facebook_stories">Baixar histórias do Facebook</string>
+    <string name="delete_confirm_image">A imagem selecionada será excluída permanentemente. Essa ação não pode ser desfeita.</string>
+    <string name="viewimage">Ver imagem</string>
+    <string name="instaimage">Imagens</string>
+    <string name="instagram_private_downlaod">Faça o download da mídia privada do Instagram</string>
+    <string name="download_tiktok_video">Baixe o vídeo do Tiktok</string>
+    <string name="earn_money_with_qureka_lite_n_play_quizzes_in_over_25_categories_n_prize_money_upto_rs_1_lac_daily">Ganhe dinheiro com Qureka Lite</string>
+    <string name="earn_money">"  Jogue questionários em mais de 25 categorias."</string>
+    <string name="bulkdownloader">"  Prêmio em dinheiro de até Rs. 1 Lac diariamente."</string>
+    <string name="instagram_bulkdownloaderstring">Baixe perfis completos de usuários do Instagram</string>
+    <string name="audios">Áudios</string>
+    <string name="preview_not">Pré-visualização não disponível</string>
+    <string name="SharingimageSubject">Compartilhando imagem baixada</string>
+    <string name="SharingimageTitle">Compartilhando imagem</string>
+    <string name="SharingimageBody">Compartilhando arquivo de imagem</string>
+    <string name="audio_text"><font color="#FF0400"><i>Áudios:</i></font></string>
+    <string name="videos_text"><font color="#FF0400"><i>Vídeos:</i></font></string>
+    <string name="loginfirst">Você precisa fazer o login primeiro para obter resultados</string>
+    <string name="removeads">Remover propagandas</string>
+    <string name="update_now">Atualize agora</string>
+
+
+    <string name="fb_story">"FBStory Download"</string>
+    <string name="no_fb_story">"Não quero baixar histórias da conta do Facebook"</string>
+    <string name="noprivatedownload">"Nenhum download privado"</string>
+    <string name="no_private_insta">"Não quero baixar a mídia da conta privada"</string>
+    <string name="listandstatus">Listar status de sites&gt;</string>
+    <string name="fb_stories_txt">Histórias de FB.</string>
+    <string name="no_result_found">nenhum resultado encontrado</string>
+    <string name="search_a_username">Procurar um nome de usuário</string>
+    <string name="post">publicar</string>
+    <string name="followers">seguidoras</string>
+    <string name="followings">folionas</string>
+    <string name="cookiesnotvalid">Cookie não é válido, tente fazer login novamente</string>
+    <string name="loadingfiles">Carregando arquivos ....</string>
+    <string name="title">Título</string>
+    <string name="duration">Duração</string>
+    <string name="source">Fonte</string>
+    <string name="resolution">Resolução</string>
+    <string name="filesize">Tamanho do arquivo</string>
+    <string name="nostoryfound">Nenhuma história insta encontrada</string>
+    <string name="stories">Histórias</string>
+    <string name="noresult">nenhum resultado encontrado</string>
+    <string name="taptoloadmore">Toque para carregar mais</string>
+    <string name="youneedloginfirest">Você precisa fazer login primeiro para obter resultados</string>
+    <string name="nodeifittakeslonger">Carregando Nota Se demorar mais tempo, 1 min fechar o aplicativo e tentar novamente</string>
+    <string name="loadingdata">Carregando dados por favor aguarde</string>
+    <string name="play">Toque</string>
+    <string name="select_the_desigred_methode_to_download_tiktok_try_the_other_one_if_one_dosent_work">Selecione o método desejado para baixar o tiktok, tente o outro se não funcionar</string>
+    <string name="methode_1">Método 1</string>
+    <string name="methode_2">Método 2</string>
+    <string name="methode_3">Método 3</string>
+    <string name="methode_4">Método 4</string>
+    <string name="methode_5">Método 5</string>
+
+    <string name="itemowned"> Item de propriedade </string>
+    <string name="adsareremoved"> Seus anúncios foram removidos, certifique-se de reiniciar o aplicativo </string>
+    <string name="purchasedone"> Compra Concluída </string>
+    <string name="methode_0">Método 0</string>
+    <string name="updqteavaliable">Nova atualização disponível</string>
+    <string name="update">Atualizar</string>
+    <string name="updateisavaliabledownload">está disponível para download.</string>
+    <string name="back">Voltar</string>
+    <string name="next">Próxima</string>
+    <string name="logininsta">Conecte-se</string>
+    <string name="urlisprivate">Este URL é inválido ou privado, tente depois de fazer login no aplicativo</string>
+    <string name="Areyousureyou_download">Tem certeza de que deseja baixar este vídeo?</string>
+    <string name="logout">Sair</string>
+    <string name="areyousure_logout">Tem certeza que deseja sair?</string>
+    <string name="facebook_private_video_downlaoder">Facebook Private Video Downlaoder</string>
+    <string name="downlaod_facebook_private_video_from_this_section">Baixe o Facebook Private Video desta seção</string>
+    <string name="hdlink">Link HD.</string>
+    <string name="sdlink">Link SD.</string>
+    <string name="audioonly">Somente Audio</string>
+    <string name="pressagain">Por favor, pressione novamente para sair</string>
+    <string name="description_permission">O acesso aos arquivos de armazenamento é necessário para salvar seus arquivos baixados e para que o WhatsApp Status Saver funcione, alguns recursos podem não funcionar se não permitir essa permissão</string>
+    <string name="note_auto_download_feature_only_works_on_android_9_or_below"><b><u>Nota:</u> </b> O recurso de download automático funciona apenas no Android 9 ou inferior</string>
+</resources>

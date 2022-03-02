@@ -1,0 +1,236 @@
+apply plugin: 'com.onesignal.androidsdk.onesignal-gradle-plugin'
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'com.google.gms.google-services'
+apply plugin: 'com.google.firebase.crashlytics'
+
+android {
+
+    useLibrary 'org.apache.http.legacy'
+
+    compileSdkVersion 32
+    defaultConfig {
+
+        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+
+        applicationId "com.infusiblecoder.allinonevideodownloader"
+        minSdkVersion 21
+        targetSdkVersion 32
+        versionCode 66
+        versionName "6.5"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+        vectorDrawables.useSupportLibrary = true
+        ndk.abiFilters "arm64-v8a", "armeabi-v7a", "x86", "x86_64"
+        android.ndkVersion '21.1.6352462'
+
+//        ndk {
+//            debugSymbolLevel 'FULL'
+//        }
+
+
+
+//        resValue "string", "app_name", "trteterte"
+//        resValue "string", "google_map_key", "khjlkjl"
+//        resValue "string", "FACEBOOK_APP_ID", "kjhhkk"
+
+//
+//        //Demo credentials
+//        buildConfigField "String", "BASE_URL", '"https://on.com/"'
+//        buildConfigField "String", "BASE_IMAGE_URL", '"https://n.com/"'
+
+        dexOptions {
+            javaMaxHeapSize "4g"
+        }
+
+    }
+    buildFeatures {
+        viewBinding true
+    }
+
+    defaultConfig {
+        resConfigs "ar","hi-rIN","pt-rBR","zh","tr-rTR","ur-rPK","de","en","fr"
+    }
+
+
+//    signingConfigs {
+//        config {
+//            keyAlias 'key0'
+//            keyPassword '123456'
+//            storeFile file('keystorevideoapp(alias=key0__pass=123456).jks')
+//            storePassword '123456'
+//        }
+//    }
+
+    buildTypes {
+
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+
+        }
+
+//        debug {
+//            debuggable true
+//            minifyEnabled true
+//            shrinkResources true
+//            signingConfig signingConfigs.config
+//            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+//        }
+    }
+
+    lintOptions {
+        disable "ResourceType"
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+
+
+//TODO Un comment this if you want to genarate 64bit APK File
+
+//    splits {
+//        abi {
+//            enable true
+//            reset()
+//            include 'x86', 'x86_64', 'armeabi-v7a', 'arm64-v8a'
+//            universalApk true
+//        }
+//    }
+
+
+    dependencies {
+        implementation fileTree(dir: 'libs', include: ['*.jar'])
+        implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+        implementation 'androidx.cardview:cardview:1.0.0'
+        implementation 'androidx.multidex:multidex:2.0.1'
+
+        testImplementation 'junit:junit:4.13.2'
+        androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+        androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+        implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+        implementation 'de.hdodenhof:circleimageview:3.1.0'
+        implementation 'org.jsoup:jsoup:1.13.1'
+        implementation 'com.github.bumptech.glide:glide:4.12.0'
+        annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
+        implementation 'com.google.android.gms:play-services-ads:20.5.0'
+        implementation 'com.google.ads.mediation:facebook:6.5+'
+        implementation 'com.github.Shashank02051997:FancyToast-Android:0.1.6'
+
+        implementation 'androidx.annotation:annotation:1.3.0'
+        implementation 'com.unity3d.ads:unity-ads:3.7.5'
+        implementation 'com.google.ads.mediation:unity:4.0.0.0'
+
+
+        //custom toast library
+        implementation 'com.github.GrenderG:Toasty:1.5.0'
+
+
+        //TODO youtube download fetcher comment this
+        //  implementation 'com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT'
+
+
+        implementation 'com.github.AppIntro:AppIntro:5.1.0'
+        implementation 'com.mikepenz:materialdrawer:6.1.2'
+        implementation 'org.apache.commons:commons-lang3:3.10'
+        implementation 'commons-io:commons-io:2.6'
+
+        // implementation 'com.github.geniusforapp:fancyDialog:1.0.2'
+        implementation 'com.turki-alkhateeb:materialcolorpicker:1.0.7'
+        implementation 'io.gloxey.cfv:custom-font-views:1.0.2'
+
+        //live video wallpaper
+        implementation 'com.github.ybq:Android-SpinKit:1.4.0'
+        implementation 'com.github.GrenderG:Toasty:1.5.0'
+
+        //consect
+        // implementation 'com.google.android.ads.consent:consent-library:1.0.8'
+
+        implementation 'com.codemybrainsout.rating:ratingdialog:1.0.8'
+
+        //inbuilt player
+
+//        implementation 'com.google.android.exoplayer:exoplayer-core:2.13.3'
+//        implementation 'com.google.android.exoplayer:exoplayer-dash:2.13.3'
+//        implementation 'com.google.android.exoplayer:exoplayer-ui:2.13.3'
+
+        // implementation 'com.google.android.exoplayer:exoplayer-hls:2.11.4'
+
+
+        implementation 'com.amitshekhar.android:android-networking:1.0.2'
+        // implementation 'com.amitshekhar.android:jackson-android-networking:1.0.2'
+
+        //rest api retrofit
+        implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+        implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+        implementation 'com.squareup.okhttp3:logging-interceptor:4.9.1'
+        implementation 'com.squareup.okhttp3:okhttp:4.9.1'
+
+        implementation 'com.github.KhunHtetzNaing:xGetter:3.0'
+        implementation 'com.makeramen:roundedimageview:2.3.0'
+
+        //data binding
+        implementation 'com.fasterxml.jackson.core:jackson-annotations:2.10.1'
+        implementation 'com.fasterxml.jackson.core:jackson-databind:2.9.10.1'
+
+        //ironsource
+//        implementation 'com.google.android.gms:play-services-ads-identifier:17.0.1'
+//        implementation 'com.google.android.gms:play-services-basement:17.6.0'
+
+        //in-app purchases
+        //  implementation 'com.anjlab.android.iab.v3:library:1.1.0'
+        // implementation 'eu.dkaratzas:android-inapp-update:1.0.5'
+        implementation "com.android.billingclient:billing-ktx:4.0.0"
+
+        //app auto updater
+        implementation 'com.github.javiersantos:AppUpdater:2.7'
+
+        //implementation 'com.arthenica:mobile-ffmpeg-full:4.4'
+        //implementation 'com.codewithshembil:android-ffmpeg:1.0.0'
+
+        //onesignal
+        //push notification onesignal
+        implementation 'com.onesignal:OneSignal:[4.0.0, 4.99.99]'
+
+        //firebase analytics and crash
+        implementation 'com.google.firebase:firebase-crashlytics:18.2.6'
+        implementation 'com.google.firebase:firebase-analytics:20.0.2'
+
+        //push notification firebase
+        implementation 'com.google.firebase:firebase-messaging:23.0.0'
+        //video view
+        implementation 'com.linsea:universalvideoview:1.1.0@aar'
+        //app open ads
+        implementation "androidx.lifecycle:lifecycle-extensions:2.2.0"
+        implementation "androidx.lifecycle:lifecycle-runtime:2.4.0"
+        //noinspection LifecycleAnnotationProcessorWithJava8
+        annotationProcessor "androidx.lifecycle:lifecycle-compiler:2.4.0"
+
+        //A tool to bypass the Cloudflare DDOS page.
+        implementation 'com.zhkrb.cloudflare-scrape-android:scrape-webview:0.0.4'
+        //ratingdialog
+        implementation 'com.suddenh4x.ratingdialog:awesome-app-rating:2.4.0'
+        //sliderview
+        implementation 'com.github.smarteist:autoimageslider:1.4.0'
+
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
+    implementation 'com.google.android.material:material:1.5.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+}

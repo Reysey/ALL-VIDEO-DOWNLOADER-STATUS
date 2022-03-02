@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كل تنزيل الفيديو</string>
+    <string name="info_permission_denied">آسف رفض الإذن. لا يمكننا فتح هذا التطبيق على جهازك ، يرجى المحاولة مرة أخرى في وقت لاحق.</string>
+    <string name="format_request_permision">سيحتاج٪ 1 $ s إلى إذن قراءة / كتابة sdcard لحفظ الملفات. هل تريد منحها؟</string>
+    <string name="SharingVideoSubject">مشاركة الفيديو الذي تم تنزيله</string>
+    <string name="SharingVideoTitle">مشاركة الفيديو</string>
+    <string name="SharingVideoBody">مشاركة ملف الفيديو</string>
+    <string name="RateAppTitle">هل تحب هذا التطبيق؟</string>
+    <string name="RateApp">شارك الحب بتصنيف 5 نجوم في متجر Play. 😘</string>
+    <string name="how_to_download_videos">كيفية تنزيل الفيديوهات؟</string>
+    <string name="share_the_video_to_aio_video_downloader_app_or">• مشاركة الفيديو مع تطبيق All Video Downloader (أو)</string>
+    <string name="simply_copy_the_link_of_any_video">• ببساطة نسخ رابط أي فيديو</string>
+    <string name="make_sure_auto_download_service_is_running">• تأكد من تشغيل \"خدمة التنزيل التلقائي\"</string>
+    <string name="paste_video_url_here">لصق عنوان URL للفيديو هنا ...</string>
+    <string name="download">تحميل</string>
+    <string name="options">خيارات</string>
+    <string name="no_watermark">لايوجد علامة مائية</string>
+    <string name="remove_watermark_from_downloaded_video">إزالة العلامة المائية من الفيديو الذي تم تنزيله</string>
+    <string name="auto_download">تنزيل تلقائي</string>
+    <string name="simply_copy_the_link_of_video_to_start_download">ببساطة انسخ رابط الفيديو لبدء التنزيل</string>
+    <string name="currently_supports">يدعم حاليا</string>
+    <string name="tiktok">تيك توك</string>
+    <string name="facebook">فیس بک</string>
+    <string name="instagram">انستغرام</string>
+    <string name="youtube">موقع يوتيوب</string>
+    <string name="dailymotion">Dailymotion</string>
+    <string name="topbuzz">TopBuzz</string>
+    <string name="twitter">تويتر</string>
+    <string name="message_title">عنوان الرسالة</string>
+    <string name="message_content">محتوى الرسالة</string>
+    <string name="auto_download_not_working">التنزيل التلقائي لا يعمل؟</string>
+    <string name="make_sure_app_is_running_in_background">• تأكد من تشغيل التطبيق في الخلفية</string>
+    <string name="restart_the_app_if_that_doesn_t_work">• أعد تشغيل التطبيق إذا لم يفلح ذلك</string>
+    <string name="contact_developer_before_leaving_a_negative_review">• اتصل المطور قبل ترك مراجعة سلبية</string>
+    <string name="author">مؤلف</string>
+    <string name="music_author">موسيقى - مؤلف</string>
+    <string name="description_goes_here">الوصف هنا</string>
+    <string name="starting_download">بدأ التنزيل...</string>
+    <string name="watch">راقب</string>
+    <string name="str_developed_with_love">وضعت مع الحب في باكستان</string>
+    <string name="download_fragment">تحميل</string>
+    <string name="gallery_fragment">صالة عرض</string>
+    <string name="grant_option">منحة</string>
+    <string name="permission_title">مطلوب إذن!</string>
+    <string name="cancel_option">إلغاء</string>
+    <string name="viemo">Vimeo</string>
+    <string name="rate_dialog">معدل</string>
+    <string name="later_btn">في وقت لاحق</string>
+    <string name="auto_download_title_notification">خدمة التنزيل التلقائي</string>
+    <string name="auto_download_title_notification_start">انسخ رابط الفيديو لبدء التنزيل</string>
+    <string name="stop_btn">قف</string>
+    <string name="restarted_service">تم إعادة تشغيل الخدمة</string>
+    <string name="downloading_des">جارى التحميل</string>
+    <string name="url_not_suppotr">عنوان url هذا غير مدعوم أو لم يتم العثور على وسائط!</string>
+    <string name="we_cant_allow">لا يمكننا السماح بتنزيل مقاطع الفيديو من هذا الموقع.</string>
+    <string name="genarating_download_link">توليد رابط التحميل</string>
+    <string name="somthing">هناك خطأ ما!</string>
+    <string name="delete_confirm">\"سيتم حذف الفيديو المحدد نهائيًا. لا يمكن التراجع عن هذا الإجراء.\"</string>
+    <string name="don_start">بدء التنزيل!</string>
+    <string name="somth_video_wrong">\"حدث خطأ أثناء تشغيل الفيديو! يرجى المحاولة مرة أخرى\"</string>
+    <string name="went_shARRE">\"حدث خطأ أثناء مشاركة الفيديو! يرجى المحاولة مرة أخرى\"</string>
+    <string name="error_occ">حدث خطأ!</string>
+    <string name="install_fb">خطأ في تثبيت تطبيق facebook!</string>
+    <string name="install_tik">تثبيت تطبيق Tiktok</string>
+    <string name="install_ins">قم بتثبيت تطبيق Instagaram</string>
+    <string name="enter_valid">يرجى إدخال عنوان URI صالح</string>
+    <string name="aio_auto">All Auto</string>
+    <string name="developer_email">infusiblecoder@gmail.com</string>
+    <string name="sintony">sintony-regular.otf</string>
+    <string name="gallery_name">صالة عرض</string>
+    <string name="hello_blank_fragment">مرحبًا بجزء فارغ</string>
+    <string name="StatusSaver">موفر الحالة</string>
+    <string name="video_downloader_gallery">معرض تنزيل الفيديو</string>
+    <string name="status_saver_gallery">معرض حالة التوقف</string>
+    <string name="appnotinstalled">لم يتم تثبيت WhatsApp يرجى تثبيته</string>
+    <string name="privacy">سياسة الخصوصية</string>
+    <string name="language">لغة</string>
+    <string name="open_whatsapp">افتح تطبيق WhatsApp</string>
+    <string name="rate_us">قيمنا</string>
+    <string name="privacytxt">خصوصية</string>
+    <string name="delete">حذف</string>
+    <string name="privacy_message"><b> نحن ملتزمون بحماية خصوصيتك </b>\n\n
+
+ نحن نجمع الحد الأدنى من المعلومات عنك بما يتناسب مع تزويدك بخدمة مرضية. تشير هذه السياسة إلى نوع العمليات التي قد تؤدي إلى جمع البيانات عنك. يمنحك استخدامك لهذا الموقع الحق في جمع تلك المعلومات.
+
+ \n\n<b> تم جمع المعلومات </b>\n\n
+
+  قد نجمع أيًا أو كل المعلومات التي تقدمها لنا بناءً على نوع المعاملة التي تدخل فيها ، بما في ذلك اسمك وعنوانك ورقم هاتفك وعنوان بريدك الإلكتروني ، إلى جانب بيانات حول استخدامك للموقع. قد يتم أيضًا جمع المعلومات الأخرى التي قد تكون مطلوبة من وقت لآخر لمعالجة الطلب كما هو موضح على موقع الويب.
+
+ \n\n<b> استخدام المعلومات </b>\n\n
+
+ نستخدم المعلومات التي تم جمعها في المقام الأول لمعالجة المهمة التي قمت بزيارة موقع الويب لها. يتم الاحتفاظ بالبيانات التي يتم جمعها في المملكة المتحدة وفقًا لقانون حماية البيانات. يتم اتخاذ جميع الاحتياطات المعقولة لمنع الوصول غير المصرح به إلى هذه المعلومات. قد تتطلب منك هذه الحماية تقديم أشكال إضافية من الهوية إذا كنت ترغب في الحصول على معلومات حول تفاصيل حسابك.
+
+ \n\n<b> ملفات تعريف الارتباط </b>\n\n
+
+ يحتوي متصفح الإنترنت الخاص بك على ميزة مضمنة لتخزين الملفات الصغيرة - "ملفات تعريف الارتباط" - التي تحتوي على معلومات تسمح لموقع الويب بالتعرف على حسابك. يستفيد موقعنا الإلكتروني من هذه الوسيلة لتعزيز تجربتك. لديك القدرة على منع جهاز الكمبيوتر الخاص بك من قبول ملفات تعريف الارتباط ولكن ، إذا فعلت ذلك ، فقد تتعطل بعض الوظائف على موقع الويب.
+
+\n\n <b> الكشف عن المعلومات </b>\n\n
+
+ نحن لا نفصح عن أي معلومات شخصية تم الحصول عليها عنك من هذا الموقع إلى أطراف ثالثة ما لم تسمح لنا بذلك عن طريق وضع علامة في المربعات ذات الصلة في نماذج التسجيل أو المنافسة. يجوز لنا أيضًا استخدام المعلومات للبقاء على اتصال معك وإبلاغك بالتطورات المرتبطة بنا. ستتاح لك الفرصة لإزالة نفسك من أي قائمة بريدية أو جهاز مشابه. إذا رغبنا في أي وقت في المستقبل في الكشف عن المعلومات التي تم جمعها على هذا الموقع الإلكتروني إلى أي طرف ثالث ، فسيكون ذلك بعلمك وموافقتك فقط. قد نقدم من وقت لآخر معلومات ذات طبيعة عامة لأطراف ثالثة - على سبيل المثال ، عدد الأفراد الذين يزورون موقعنا على الإنترنت أو يكملون استمارة التسجيل ، لكننا لن نستخدم أي معلومات يمكن أن تحدد هؤلاء الأفراد. بالإضافة إلى ذلك ، قد تعمل Dummy مع جهات خارجية بغرض تقديم إعلانات سلوكية مستهدفة إلى موقع Dummy الإلكتروني. من خلال استخدام ملفات تعريف الارتباط ، سيتم استخدام معلومات مجهولة المصدر حول استخدامك لمواقعنا ومواقع الويب الأخرى لتقديم إعلانات أكثر صلة حول السلع والخدمات التي تهمك. لمزيد من المعلومات حول الإعلان السلوكي عبر الإنترنت وحول كيفية إيقاف تشغيل هذه الميزة ، يرجى زيارة infusiblecoder.com
+
+ \n\n<b> التغييرات على هذه السياسة </b>\n\n
+
+ سيتم وضع أي تغييرات على سياسة الخصوصية الخاصة بنا هنا وستحل محل هذه النسخة من سياستنا. سنتخذ خطوات معقولة للفت انتباهك إلى أي تغييرات في سياستنا. ومع ذلك ، لكي تكون في الجانب الآمن ، نقترح أن تقرأ هذا المستند في كل مرة تستخدم فيها موقع الويب للتأكد من أنه لا يزال يلبي موافقتك.
+
+ \n\n<b> الاتصال بنا </b>\n\n
+
+ إذا كان لديك أي أسئلة حول سياسة الخصوصية الخاصة بنا ، أو إذا كنت تريد معرفة المعلومات التي جمعناها عنك ، يرجى مراسلتنا عبر البريد الإلكتروني على infusiblecoder@gmail.com. يمكنك أيضًا تصحيح أي أخطاء واقعية في تلك المعلومات أو تطلب منا إزالة التفاصيل الخاصة بك من أي قائمة تحت سيطرتنا.</string>
+    <string name="select_quality">Select Quality</string>
+    <string name="noApp_f">لم يتم العثور على تطبيق لفتح هذا الملف.</string>
+    <string name="file_del">تم حذف الملف</string>
+    <string name="are_sure_del">هل أنت متأكد أنك تريد حذف هذا الملف؟</string>
+    <string name="del_tit">حذف؟</string>
+    <string name="nn">لا</string>
+    <string name="yyy">نعم</string>
+    <string name="vidd">\" فيديو؟\"</string>
+    <string name="selected_i">\" المحدد\"</string>
+    <string name="choose">أختر</string>
+    <string name="watch_arr">راقب</string>
+    <string name="del_arr">حذف</string>
+    <string name="share_arr">شارك</string>
+    <string name="saved_to">\"تم الحفظ في:\"</string>
+    <string name="refre">منتعش!</string>
+    <string name="pernecessory">إذن ضروري</string>
+    <string name="write_neesory">كتابة إذن التخزين ضروري لتحميل الصور ومقاطع الفيديو !!!</string>
+    <string name="yes">نعم</string>
+    <string name="stor_saver">" \"حافظ القصة\""</string>
+    <string name="se1">الخطوة 1</string>
+    <string name="se_2">الخطوة 2</string>
+    <string name="se_3">الخطوه 3</string>
+    <string name="tap_wp">انقر لفتح WhatsApp.</string>
+    <string name="vie_rec">عرض القصص الأخيرة و Open Status Saver.</string>
+    <string name="dow_sto">تنزيل القصص التي تريدها!</string>
+    <string name="invalid_url">عنوان URL للفيديو غير صالح أو تحقق من اتصال الإنترنت</string>
+    <string name="savedstt">\"القصص المحفوظة\"</string>
+    <string name="install_ytd">قم بتثبيت تطبيق Youtube</string>
+    <string name="install_viemoo">قم بتثبيت تطبيق Vimeo</string>
+    <string name="install_twi">تثبيت تطبيق Twitter</string>
+    <string name="install_topbuzz">قم بتثبيت تطبيق Topbuzz</string>
+    <string name="play_video_begin_des">إظهار واتس اب الأعمال</string>
+    <string name="battery_saver">حافظ البطارية</string>
+    <string name="save_battery">وفر البطارية</string>
+    <string name="select_video">حدد الفيديو</string>
+    <string name="set_up_video_wallpaper">قم بإعداد خلفية الفيديو</string>
+    <string name="set_wallpaper">تعيين خلفية</string>
+    <string name="sound_on">الصوت مفعل</string>
+    <string name="sound_play_begin">العب من البداية</string>
+    <string name="open_sound_of_video">فتح صوت الفيديو</string>
+    <string name="error_emty_video">خطأ! اختار الفيديو</string>
+    <string name="please_select_video">يرجى تحديد Video</string>
+    <string name="rate_it">حسنا</string>
+    <string name="alert">إنذار</string>
+    <string name="cancel">إلغاء</string>
+    <string name="txt_exit">هل تريد الخروج؟</string>
+    <string name="app_description">خلفية فيديو حية</string>
+    <string name="loading">جار التحميل، . . .</string>
+    <string name="tik_inaspp">عرض Tiktok Inapp</string>
+    <string name="privacy_policy">سياسة خاصة</string>
+    <string name="share">شارك</string>
+    <string name="rate_app">قيم التطبيق</string>
+    <string name="more_apps">تطبيقات أكثر</string>
+    <string name="copy_youtube">نسخ</string>
+    <string name="copy_done">نسخ</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="about_us">معلومات عنا</string>
+    <string name="dashboard">الصفحة الرئيسية</string>
+    <string name="about_us_content">معلوماتك هنا</string>
+    <string name="contact_us_content">معلومات الاتصال الخاصة بك هنا</string>
+    <string name="hashtags_copied">تم نسخ علامات التصنيف</string>
+    <string name="ytd_hashtag">يوتيوب Hastag Genarator</string>
+    <string name="tags_activity">العلامات</string>
+    <string name="do_you_want_open_insta">هل تريد فتح Instagram</string>
+    <string name="btn_no">لا</string>
+    <string name="btn_yes">نعم</string>
+    <string name="title_activity_help">مساعدة</string>
+    <string name="title_activity_settings">الإعدادات</string>
+    <string name="setting_label_app_name">اسم التطبيق</string>
+    <string name="setting_label_version">نسخة البناء</string>
+    <string name="setting_label_help">مساعدة</string>
+    <string name="setting_title_help">كيف تستخدم هذا التطبيق؟</string>
+    <string name="setting_label_rate">قيمنا</string>
+    <string name="setting_title_rate">يرجى دعمنا بمراجعتك الإيجابية</string>
+    <string name="setting_label_share">أنشرها</string>
+    <string name="setting_title_share">شارك تطبيقنا مع أصدقائك وعائلتك</string>
+    <string name="setting_label_contact">اتصل بنا</string>
+    <string name="setting_title_contact">ساعدنا على تحسين تطبيقنا</string>
+    <string name="setting_label_privacy">سياسة خاصة</string>
+    <string name="setting_title_privacy">يرجى التحقق من سياسة الخصوصية الخاصة بنا هنا</string>
+    <string name="share_via">شارك عبر</string>
+    <string name="subject">الموضوع هنا</string>
+    <string name="improvement_title">ردود الفعل</string>
+    <string name="improvement">أخبرنا أين يمكننا تحسين في أقرب وقت ممكن</string>
+    <string name="submit_btn">إرسال</string>
+    <string name="never_btn">أبدا</string>
+    <string name="rate_later_btn">ليس الان</string>
+    <string name="rate_message">من فضلك ، شاركنا كيف كانت تجربتك معنا؟</string>
+    <string name="update_title">يتوفر تحديث جديد</string>
+    <string name="update_mssg">تحقق من أحدث إصدار متاح للحصول على أحدث الميزات وإصلاح الأخطاء</string>
+    <string name="positive_btn">تحديث الان</string>
+    <string name="negative_btn">في وقت لاحق</string>
+    <string name="btn_copy_open_insta">نسخ وفتح الانستقرام</string>
+    <string name="btn_copy">نسخ</string>
+    <string name="btn_rate">معدل</string>
+    <string name="btn_share">شارك</string>
+    <string name="btn_settings">الإعدادات</string>
+    <string name="big_title_splash">تصبح أكثر شعبية وتجد</string>
+    <string name="small_title_spalsh">ستعرف كيف تكون أكثر شعبية ، احصل على المزيد</string>
+    <string name="btn_star">بداية</string>
+    <string name="ver">\"الإصدار \"</string>
+    <string name="copydb">نسخ قاعدة البيانات بنجاح</string>
+    <string name="dopydb">خطأ في نسخ البيانات</string>
+    <string name="gallery_fragment_statussaver">صالة عرض</string>
+    <string name="StatusSaver_gallery">معرض الحالة</string>
+    <string name="likee">مثل</string>
+    <string name="view_more_supported_apps">عرض المزيد من التطبيقات المدعومة</string>
+    <string name="error_occord_while">حدث خطأ أثناء فتح التطبيق ، يرجى فتحه يدويًا</string>
+    <string name="open_gallery">زيارة المعرض</string>
+    <string name="doyouseead">لتمكين التنزيل التلقائي ، يجب عليك مشاهدة إعلان. هل تريد ان ترى واحدة؟</string>
+    <string name="watchad">شاهد إعلان الفيديو</string>
+    <string name="enabAuto">تمكين التنزيل التلقائي</string>
+    <string name="completad">يجب عليك مشاهدة الإعلان الكامل</string>
+    <string name="videofailedload">فشل تحميل إعلان الفيديو بمكافأة</string>
+    <string name="videonotavaliabl">فيديو المكافأة غير متوفر</string>
+    <string name="show_mainwhatsapp">حالات WhatsApp الرئيسية</string>
+    <string name="supported_social_networking_apps">تطبيقات الشبكات الاجتماعية المدعومة</string>
+    <string name="other_supported_apps">التطبيقات المدعومة الأخرى</string>
+    <string name="ultimately_its_all_about_love_nrate_now">في نهاية المطاف كل شيء عن الحب</string>
+    <string name="do_you_find_our_new_version_n_more_beautiful_more_playful_amp_more_useful_nif_yes_show_us_your_love">هل تجد نسختنا الجديدة \\ n أجمل وأكثر مرحًا وأكثر فائدة؟ \\ n إذا كان الجواب نعم ، أظهر لنا حبك.></string>
+    <string name="not_now">ليس الان</string>
+    <string name="extrafeatures">ميزات اضافية</string>
+    <string name="show_businesswhatsapp">إظهار واتس اب الأعمال</string>
+    <string name="mssg_share">يا صديقي (ق) تحقق من هذا التطبيق المدهش</string>
+    <string name="step_1">الخطوة 1:</string>
+    <string name="firstly_you_need_to_choose_the_categorie_of_the_tags_that_you_need_to_use_in_your_instagrame_post_or_in_other_social_media">أولاً ، تحتاج إلى اختيار فئة العلامات التي تحتاج إلى استخدامها في منشور Instagram الخاص بك أو في وسائل التواصل الاجتماعي الأخرى</string>
+    <string name="step_2">الخطوة 2:</string>
+    <string name="_1_then_you_can_choose_the_sub_categorie_that_you_need_to_use">1- ثم يمكنك اختيار الفئات الفرعية التي تحتاج إلى استخدامها</string>
+    <string name="_2_after_that_copy_the_hashtags_by_click_on_copy_button_or_click_on_copy_38_open_instagram">2- بعد ذلك قم بنسخ علامات التصنيف بالضغط على زر COPY أو انقر على COPY &amp;؛ فتح انستغرام</string>
+    <string name="_3_finaly_past_those_hashtags_on_your_post_and_wait_to_get_the_organic_likes_and_followers">3- وأخيرًا تجاوز علامات التصنيف هذه على مشاركتك وانتظر للحصول على الإعجابات والمتابعين العضويين</string>
+    <string name="consent_sdk">SDK للموافقة</string>
+    <string name="change_the_consent_settings">قم بتغيير إعدادات الموافقة!</string>
+    <string name="are_you_sure_you_want_to_exit">هل أنت متأكد أنك تريد الخروج ؟</string>
+    <string name="which_video_type_do_you_want_to_download_n_n_note_mp3_files_will_be_located_in_the_app_downloads_folder_it_will_not_be_shown_in_the_gallery_of_the_app_for_now">ما نوع الفيديو الذي تريد تنزيله؟</string>
+    <string name="without_watermark">بدون علامة مائية</string>
+    <string name="with_watermark">مع علامة مائية</string>
+    <string name="or">أو</string>
+    <string name="download_mp3">Mp3 تحميل</string>
+    <string name="live_video_wallpaper">خلفية فيديو حية</string>
+    <string name="select_a_video_and_make_it_your_live_video_wallpaper">حدد مقطع فيديو واجعله خلفية فيديو حية</string>
+    <string name="no_need_to_install_tiktok_app_open_tiktok_here">لا حاجة لتثبيت تطبيق Tiktok افتح Tiktok هنا</string>
+    <string name="youtube_hashtag_genarator">يوتيوب Hashtag Generator</string>
+    <string name="genarate_the_best_hashtags_for_youtube">توليد أفضل علامات التصنيف لليوتيوب</string>
+    <string name="instagram_hashtags_likes_and_followers">Instagram Hashtags - الإعجابات والمتابعون</string>
+    <string name="tool_that_help_you_to_grow_your_profile_get_more_organic_likes_and_followers">الأداة التي تساعدك على تنمية ملفك الشخصي تحصل على المزيد من الإعجابات والمتابعين العضويين</string>
+    <string name="coming_soon">قريبا</string>
+    <string name="more_features_coming_soon">المزيد من الميزات قريبا</string>
+    <string name="repost">إعادة نشر</string>
+    <string name="send">إرسال</string>
+    <string name="sharechat">ShareChat</string>
+    <string name="install_sharechat">تثبيت تطبيق sharechat</string>
+    <string name="install_roposo">install Roposo</string>
+    <string name="install_likee">install Likee</string>
+    <string name="download_facebook_stories">قم بتنزيل Facebook Stories</string>
+    <string name="delete_confirm_image">سيتم حذف الصورة المحددة بشكل دائم. لا يمكن التراجع عن هذا الإجراء.</string>
+    <string name="viewimage">عرض الصورة</string>
+    <string name="instaimage">الصور</string>
+    <string name="instagram_private_downlaod">قم بتنزيل Instagram Private Media</string>
+    <string name="download_tiktok_video">تحميل فيديو تيك توك</string>
+    <string name="earn_money_with_qureka_lite_n_play_quizzes_in_over_25_categories_n_prize_money_upto_rs_1_lac_daily">اربح المال مع Qureka Lite</string>
+    <string name="earn_money">"  العب الاختبارات القصيرة في أكثر من 25 فئة."</string>
+    <string name="bulkdownloader">"  أموال الجائزة تصل إلى روبية. 1 لاك يوميا."</string>
+    <string name="instagram_bulkdownloaderstring">قم بتنزيل الملفات الشخصية الكاملة لمستخدمي Instagram</string>
+    <string name="audios">صوتيات</string>
+    <string name="preview_not">المعاينة غير متوفرة</string>
+    <string name="SharingimageSubject">مشاركة الصورة التي تم تنزيلها</string>
+    <string name="SharingimageTitle">مشاركة الصورة</string>
+    <string name="SharingimageBody">مشاركة ملف الصورة</string>
+    <string name="audio_text"><font color="#FF0400"><i>صوتيات :</i></font></string>
+    <string name="videos_text"><font color="#FF0400"><i>أشرطة فيديو :</i></font></string>
+    <string name="loginfirst">تحتاج إلى تسجيل الدخول أولا للحصول على النتائج</string>
+    <string name="removeads">ازالة الاعلانات</string>
+    <string name="update_now">تحديث الان</string>
+
+    <string name="fb_story">"تنزيل FBSTory"</string>
+    <string name="no_fb_story">"لا تريد تنزيل القصص من حساب Facebook"</string>
+    <string name="noprivatedownload">"لا تحميل خاص"</string>
+    <string name="no_private_insta">"لا تريد تنزيل الوسائط من حساب خاص"</string>
+    <string name="listandstatus">قائمة حالات المواقع&gt;</string>
+    <string name="fb_stories_txt">قصص FB.</string>
+    <string name="no_result_found">لم يتم العثور على نتائج</string>
+    <string name="search_a_username">البحث عن اسم المستخدم</string>
+    <string name="post">بريد</string>
+    <string name="followers">متابعون</string>
+    <string name="followings">فيما يلي</string>
+    <string name="cookiesnotvalid">ملف تعريف الارتباط غير صالح، حاول تسجيل الدخول مرة أخرى</string>
+    <string name="loadingfiles">تحميل ملفات ....</string>
+    <string name="title">لقب</string>
+    <string name="duration">مدة</string>
+    <string name="source">مصدر</string>
+    <string name="resolution">القرار</string>
+    <string name="filesize">حجم الملف</string>
+    <string name="nostoryfound">لم يتم العثور على قصة Insta</string>
+    <string name="stories">قصص</string>
+    <string name="noresult">لم يتم العثور على نتائج</string>
+    <string name="taptoloadmore">انقر لتحميل أكثر</string>
+    <string name="youneedloginfirest">تحتاج إلى تسجيل الدخول أولا للحصول على النتائج</string>
+    <string name="nodeifittakeslonger">تحميل .... ملاحظة إذا استغرق الأمر وقتا أطول ثم 1 دقيقة أغلق التطبيق وإعادة المحاولة</string>
+    <string name="loadingdata">تحميل البيانات، يرجى الانتظار …</string>
+    <string name="play">لعب</string>
+    <string name="select_the_desigred_methode_to_download_tiktok_try_the_other_one_if_one_dosent_work">حدد الطريقة التي تريدها لتنزيل tiktok ، جرب الطريقة الأخرى إذا لم تنجح</string>
+    <string name="methode_1">طريقة 1</string>
+    <string name="methode_2">الطريقة الثانية</string>
+    <string name="methode_3">ميثود 3</string>
+    <string name="methode_4">ميثود 4</string>
+    <string name="methode_5">ميثود 5</string>
+
+    <string name="itemowned"> العنصر مملوك </string>
+    <string name="adsareremoved"> تمت إزالة إعلاناتك ، تأكد من إعادة تشغيل التطبيق </string>
+    <string name="purchasedone"> تم الشراء </string>
+    <string name="methode_0">الطريقة 0</string>
+    <string name="updqteavaliable">تحديث جديد متاح</string>
+    <string name="update">تحديث</string>
+    <string name="updateisavaliabledownload">متاح للتنزيل.</string>
+    <string name="back">عودة</string>
+    <string name="next">التالي</string>
+    <string name="logininsta">تسجيل الدخول</string>
+    <string name="urlisprivate">عنوان URL هذا غير صالح أو خاص ، حاول بعد تسجيل الدخول إلى التطبيق</string>
+    <string name="Areyousureyou_download">هل أنت متأكد أنك تريد تنزيل هذا الفيديو؟</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="areyousure_logout">هل أنت متأكد أنك تريد تسجيل الخروج؟</string>
+    <string name="facebook_private_video_downlaoder">facebook video downloader</string>
+    <string name="downlaod_facebook_private_video_from_this_section">قم بتنزيل فيديو Facebook الخاص من هذا القسم</string>
+    <string name="hdlink">رابط HD.</string>
+    <string name="sdlink">رابط SD.</string>
+    <string name="audioonly">صوت فقط</string>
+    <string name="pressagain">يرجى الضغط مرة أخرى للخروج</string>
+    <string name="description_permission">يلزم الوصول إلى ملفات التخزين من أجل حفظ الملفات التي تم تنزيلها ولكي تعمل WhatsApp Status Saver ، قد لا تعمل بعض الميزات إذا لم تسمح بهذا الإذن</string>
+    <string name="note_auto_download_feature_only_works_on_android_9_or_below"><b><u> ملاحظة: </u> </b> تعمل ميزة التنزيل التلقائي فقط على نظام Android 9 أو إصدار أقدم</string>
+</resources>

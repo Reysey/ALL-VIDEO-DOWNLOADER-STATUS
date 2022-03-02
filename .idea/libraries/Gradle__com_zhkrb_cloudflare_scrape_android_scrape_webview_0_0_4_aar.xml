@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zhkrb.cloudflare-scrape-android:scrape-webview:0.0.4@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7727f6a093b4a5b094d6cf089622a116/jetified-scrape-webview-0.0.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7727f6a093b4a5b094d6cf089622a116/jetified-scrape-webview-0.0.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7727f6a093b4a5b094d6cf089622a116/jetified-scrape-webview-0.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a1ed6f60a26e1fc3890615befd690eda/jetified-scrape-webview-0.0.4/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a1ed6f60a26e1fc3890615befd690eda/jetified-scrape-webview-0.0.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a1ed6f60a26e1fc3890615befd690eda/jetified-scrape-webview-0.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a62c5d0705d369766b1101c89b2f545f/jetified-scrape-webview-0.0.4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a62c5d0705d369766b1101c89b2f545f/jetified-scrape-webview-0.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a62c5d0705d369766b1101c89b2f545f/jetified-scrape-webview-0.0.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhkrb.cloudflare-scrape-android/scrape-webview/0.0.4/f66bf8c228e9781dd5f850dc3a90320b29b6c633/scrape-webview-0.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zhkrb.cloudflare-scrape-android/scrape-webview/0.0.4/4c8b69a3429551db2cf53a295a163ef7a214ce6b/scrape-webview-0.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

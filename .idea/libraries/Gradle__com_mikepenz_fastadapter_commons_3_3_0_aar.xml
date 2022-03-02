@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mikepenz:fastadapter-commons:3.3.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df17db3367576d66ec7cc882451e9d29/jetified-fastadapter-commons-3.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/632e81be2ae4c5e9fe29eb7c27692a58/jetified-fastadapter-commons-3.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/561859c29adb55d66e0e120b6d445f91/jetified-fastadapter-commons-3.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/98dca8811b0c732a1fab5f688ca7cb1f/jetified-fastadapter-commons-3.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/18a11b4d0db305083d1572c529f97d67/jetified-fastadapter-commons-3.3.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/18a11b4d0db305083d1572c529f97d67/jetified-fastadapter-commons-3.3.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/18a11b4d0db305083d1572c529f97d67/jetified-fastadapter-commons-3.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/38c406c1fd2f9046675a99dbe3e9e6eb/jetified-fastadapter-commons-3.3.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/38c406c1fd2f9046675a99dbe3e9e6eb/jetified-fastadapter-commons-3.3.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/38c406c1fd2f9046675a99dbe3e9e6eb/jetified-fastadapter-commons-3.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f98727d70b9be309f208ea5b0c83cd29/jetified-fastadapter-commons-3.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/68a400fcef92e8f217d4e38baa125eed/jetified-fastadapter-commons-3.3.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/68a400fcef92e8f217d4e38baa125eed/jetified-fastadapter-commons-3.3.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/68a400fcef92e8f217d4e38baa125eed/jetified-fastadapter-commons-3.3.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/fastadapter-commons/3.3.0/d6c01e88a229800a7f9ee5ec2c1780079fc80c1f/fastadapter-commons-3.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mikepenz/fastadapter-commons/3.3.0/ee0f2b707567078e3a217e80c73b6c00496e051/fastadapter-commons-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

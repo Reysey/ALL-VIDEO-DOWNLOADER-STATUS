@@ -1,0 +1,621 @@
+[
+  {
+    "website_name": "Facebook",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Facebook_icon_2013.png"
+  },
+  {
+    "website_name": "TikTok",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://assets.materialup.com/uploads/28cbb1b2-0e74-4925-9842-a0ac8fd90732/preview"
+  },
+  {
+    "website_name": "Instagram",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/fkLNfVF/instagram-icon-300x300.png"
+  },
+  {
+    "website_name": "Twitter",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/gWB1y9k/twitter-icon-300x300.png"
+  },
+  {
+    "website_name": "Likee",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/nwht7xK/likee-300x300.png"
+  },
+  {
+    "website_name": "ShareChat",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/WKvzCJj/sharechat-1136710-300x300.png"
+  },
+  {
+    "website_name": "Youtube",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/J35Q2WR/iconfinder-youtube-834723.png"
+  },
+  {
+    "website_name": "Vimeo",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHSS_qLSpJ1AA/company-logo_200_200/0/1529941657068?e=2159024400&v=beta&t=0O9NaiXsOJJUcMpf2LmqfJTMUHi32n7kU04jOtbZ-M0"
+  },
+  {
+    "website_name": "Mxtakatak",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/YyV0MCd/taatak-icon-300x300.png"
+  },
+  {
+    "website_name": "Ganna",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/vxqtBBV/Gaana-Unlimited-icon.png"
+  },
+  {
+    "website_name": "20min",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/hDGs9xh/20-Minuten-300x300.jpg"
+  },
+  {
+    "website_name": "Roposo",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/KWcT2mT/images-q-tbn-ANd9-Gc-Qn-IPXJr4o-ZNl-TYEhxu-Qn-Eed-Zj-OXR5483-G9c-Q-usqp-CAU.png"
+  },
+  {
+    "website_name": "SnackVideo",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/PQWDvXK/Snack-Video-320x320.png"
+  },
+  {
+    "website_name": "IGTV",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/qJGKcvK/igtv-logo-icon-transparent-png-300x300.png"
+  },
+  {
+    "website_name": "Topbuzz",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/LZrnz34/BW8-Du8p-300x300.jpg"
+  },
+  {
+    "website_name": "Buzzfeed",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/8dj9Hdf/buzzfeed-arrow-e86a786d9e5e2250e1ed3e0ec95ba42d-300x300.png"
+  },
+  {
+    "website_name": "Dailymotion",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/Gc06MyX/dailymotion-logo-ogtag-300x300.png"
+  },
+  {
+    "website_name": "ESPN",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/b5nbGqR/i-1-300x200.png"
+  },
+  {
+    "website_name": "Flickr",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/V3BDXPR/1568234357176-e-2159024400-v-beta-t-1e-Ee3gq-GZt-Uw-Nbm0n3wj-SW4-Ea-FJ3spnc-GDzhcs-N-g8g.png"
+  },
+  {
+    "website_name": "IMDB",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/4NcpZyz/1200px-IMDB-Logo-2016-svg-300x200.png"
+  },
+  {
+    "website_name": "Imgur",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/4pTjHCx/imgur-0-0-300x200.jpg"
+  },
+  {
+    "website_name": "Mashable",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/qBHPNDy/1541432097276-e-2159024400-v-beta-t-llw99-VZz5wyk-AV8w-Dk-Ed4-Wc-JUs4d-Ew-J12-AVUr-Im-XICA.jpg"
+  },
+  {
+    "website_name": "9GAG",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/q05BGSw/250px-9gag-logo-svg.png"
+  },
+  {
+    "website_name": "TED",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/1QYHFTF/5ef09c23d5fb562ecc0df214-ted-logo-300x200.png"
+  },
+  {
+    "website_name": "Twitch",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/tcX0jKz/1593628073916-e-2159024400-v-beta-t-89u72cg5-Kzj-SQ1qw-B9x-PZYh-Wvr7j-Fk-D-9m-Uy-Fd-NFn-Vw.jpg"
+  },
+  {
+    "website_name": "Tumblr",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/d2Pvx6y/icon-tumblr.png"
+  },
+  {
+    "website_name": "VK",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/t4K3S77/i9-YK5-BKr-400x400-300x300.jpg"
+  },
+  {
+    "website_name": "Reddit",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/Cwtv2qL/Ot-TAJXEZ-400x400-300x300.jpg"
+  },
+  {
+    "website_name": "bandcamp",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/pzYTdZP/Bandcamp-300x200.png"
+  },
+  {
+    "website_name": "bilibili",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/Sv8WVfH/daxue-consulting-Bilibili-platform-cover-picture-300x200.png"
+  },
+  {
+    "website_name": "bitchute",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/K7VDdLZ/bit-300x200.jpg"
+  },
+  {
+    "website_name": "douyin",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/gPKrWDf/image-1-300x200.png"
+  },
+  {
+    "website_name": "izlesene",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/RYQQWQX/icon-600x600-300x300.png"
+  },
+  {
+    "website_name": "kwai",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/4fzF0H5/unnamed-300x300.png"
+  },
+  {
+    "website_name": "linkedin",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/c8csmbv/linkedin-300x300.png"
+  },
+  {
+    "website_name": "streamable",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKgOtEm1Ua70WdG1SMAjjE7mGJxmC7bt3MSg&usqp=CAU"
+  },
+  {
+    "website_name": "pinterest",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://icons-for-free.com/iconfiles/png/512/pinterest+icon-1320185153343346197.png"
+  },
+  {
+    "website_name": "mitron",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://lh3.googleusercontent.com/3d2P-gV_RWDFDRIVPxnVES1LOL-QbREpHFTw0bxgqKvZybie93fN3YG4OD8mMWEXRkw"
+  },
+  {
+    "website_name": "josh",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/HF64fp5/josh-300x300.png"
+  },
+  {
+    "website_name": "triller",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/vVmRRwX/triller-300x300.png"
+  },
+  {
+    "website_name": "rizzle",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/2P9k7gs/rizzle-300x300.jpg"
+  },
+  {
+    "website_name": "ifunny",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://d2e111jq13me73.cloudfront.net/sites/default/files/styles/product_image_aspect_switcher_170w/public/product-images/csm-app/ifunnymain.jpg?itok=juS7vNBs"
+  },
+  {
+    "website_name": "trell",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/6gcWsxw/trell-300x300.png"
+  },
+  {
+    "website_name": "boloindya",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://img.apksum.com/f7/com.boloindya.boloindya/3.1.5/icon.png"
+  },
+  {
+    "website_name": "chingari",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://lh3.googleusercontent.com/BYB_7Olmo8Qvqti4WFZj2SUy4V3-4V39PmH0IoQ7v_QIaB8Of4-ggYA66FwTGwXYXfk=s180"
+  },
+  {
+    "website_name": "dubsmash",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/v1452146334/hx9ehweejeiytt6d6ysp.png"
+  },
+  {
+    "website_name": "bittube",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://4miners.pro/images/icons/tube.png"
+  },
+  {
+    "website_name": "mp4upload",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://www.mp4upload.com/images/logo.png"
+  },
+  {
+    "website_name": "ok.ru",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/9H2m9GY/download.jpg"
+  },
+  {
+    "website_name": "mediafire",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://androidapksfree.com/wp-content/uploads/2018/08/MediaFire-APK.png"
+  },
+  {
+    "website_name": "gphoto",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://avatars.githubusercontent.com/u/5338871?s=280&v=4"
+  },
+  {
+    "website_name": "uptostream",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ytimg.com/vi/kAKMT7ANsmU/hqdefault.jpg"
+  },
+  {
+    "website_name": "fembed",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://www.fembed.net/asset/default/img/logo-text.png?v=1553817910"
+  },
+  {
+    "website_name": "cocoscope",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://pbs.twimg.com/profile_images/1057988486492434433/NOAgA59z_400x400.jpg"
+  },
+  {
+    "website_name": "sendvid",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://res.9appsinstall.com/group3/M01/68/55/4pMEAFtC6X6AJ7RRAAAqYPIZm9I471.png?x-oss-process=style/mq200"
+  },
+  {
+    "website_name": "viva video",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://hindisahayta.in/wp-content/uploads/2018/10/Hypstar-300x300.png"
+  },
+  {
+    "website_name": "4Shared",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://img.ibxk.com.br/2014/08/20/20112454692216.jpg"
+  },
+  {
+    "website_name": "hind",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://lh3.googleusercontent.com/iLe9ULtqMh-q_pPwie4whtwn4lE69ohuu29XIA91d-RQHfTJ_PrzvDRilmpB7aN3p9g=s200"
+  },
+  {
+    "website_name": "abc",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://cdn.iconscout.com/icon/free/png-256/abc-24-283385.png"
+  },
+  {
+    "website_name": "gfycat",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://apprecs.org/gp/images/app-icons/300/eb/com.gfycat.jpg"
+  },
+  {
+    "website_name": "videoclip",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://www.clipartmax.com/png/small/205-2058936_video-clipart-music-video-icon-for-music-video.png"
+  },
+  {
+    "website_name": "vigovideo",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://androidapksfree.com/wp-content/uploads/2017/12/Vigo-Video-Formerly-Flipagram-APK.png"
+  },
+  {
+    "website_name": "wwe",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/gTnb3XM/wwe.png"
+  },
+  {
+    "website_name": "break.com",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Break.com_Logo_2017.svg/1200px-Break.com_Logo_2017.svg.png"
+  },
+  {
+    "website_name": "blogger",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://media-exp1.licdn.com/dms/image/C560BAQHnWMq8Qm-Fzw/company-logo_200_200/0/1549493104145?e=2159024400&v=beta&t=w1iklMKTNcdYsAG_EJJPKeqjbchHlCVlLH19eVsOLCg"
+  },
+  {
+    "website_name": "Moj video",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "http://cdn.apk-cloud.com/detail/image/in.mohalla.video-w250.png"
+  },
+  {
+    "website_name": "Zili",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://static-s.aa-cdn.net/img/gp/20600010967069/IhtTCaHoohWzo5l8FoC7up0w-xOsEaO_u0nNvWD6ZxbBA0j7a2Kqqprj81iLc50v8OPR=s300?v=1"
+  },
+  {
+    "website_name": "Tiki app",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://static-s.aa-cdn.net/img/gp/20600014639485/nko73INtgjKMPGTJvVishym13GbJ70Lc0XwMrKB0Adm6xSvyxwslLwgqfTUS-1BQkg=s300?v=1"
+  },
+  {
+    "website_name": "popcornflix",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://apprecs.org/gp/images/app-icons/300/7d/com.curiousbrain.popcornflix.tv.jpg"
+  },
+  {
+    "website_name": "DTube",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://pbs.twimg.com/profile_images/1116752245507465216/RJcbx9BK_400x400.png"
+  },
+
+  {
+    "website_name": "Fansubs.tv",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/fF53M7D/fansub-300x300.png"
+  },
+  {
+    "website_name": "kickstarter",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://cdn-icons-png.flaticon.com/512/1051/1051281.png"
+  },
+  {
+    "website_name": "vlive",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/vq4TyyY/vlike.png"
+  },
+  {
+    "website_name": "vlipsy",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://cdn-images-1.medium.com/fit/c/336/336/1*ZXZJNMrIJCvHJAuCkp6B-w.png"
+  },
+  {
+    "website_name": "vidlit",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/nkB3Zn0/vidlit-300x200.png"
+  },
+  {
+    "website_name": "Gloria.tv",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://res.9appsinstall.com/group3/M00/5A/28/4pMEAFqvVpiAF7QkAAAaeixBXrQ805.png?x-oss-process=style/mq200"
+  },
+  {
+    "website_name": "Aparat",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Aparat_Icon.png/240px-Aparat_Icon.png"
+  },
+  {
+    "website_name": "1tv.ru",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://static.1tv.ru/assets/web/stream-placeholder-5a489668aa333640f89a196dc4220bd168bdfcb3ee822b998cb223a3b739b48f.jpg"
+  },
+  {
+    "website_name": "Allocine.fr",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://cdn.androidcrew.com/com.allocine.androidapp-header.png"
+  },
+  {
+    "website_name": "Audioboom",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://imgc.androidappsapk.co/Y3B9X5PafKpik3yEDFKNh5unHGV8IdFqzgKc-uQyFQK5OidFoCQp3YLpyv0oMi481ak=s300"
+  },
+  {
+    "website_name": "Audiomack",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.pinimg.com/474x/7c/3e/e2/7c3ee2a95a649778e96f445d77796e2a.jpg"
+  },
+  {
+    "website_name": "Veer.tv",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGNwlJaM1sOwumvumBNj6mydphdnBIS85LSA&usqp=CAU"
+  },
+  {
+    "website_name": "ojoo",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://play-lh.googleusercontent.com/QVsOipMbXVW5HD1hOtCsHptWGnmY6kd_hr4DTLeKcpcfdgC_njakHhfpGb1tsb8X_B4"
+  },
+  {
+    "website_name": "Raask",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.pinimg.com/originals/ff/41/70/ff417063fd7523e905bab9bc1aebcc50.png"
+  },
+  {
+    "website_name": "Fairtok",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://play-lh.googleusercontent.com/PUQRraCxzpTtsHhv2V_dWt652rgWgT_7qAtG-Wcv67kgtYz7cRaIupDheWUICrrPHFA=s200"
+  },
+  {
+    "website_name": "byte.co",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://bloganueva.com/images/1580402600.png"
+  },
+  {
+    "website_name": "kooapp",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://play-lh.googleusercontent.com/4LfHtw-jH2N4Xsg0tuHlfXt9hh63Yk_O0Pkb-q7hP1GXULIwhUxoL6fybqndFZ7z4g=w300"
+  },
+  {
+    "website_name": "funimate",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.pinimg.com/474x/06/9c/8e/069c8e927e6eb7a0700db414004b08f3.jpg"
+  },
+  {
+    "website_name": "fthis.gr",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDaIEVdydd1N9a6vqA-jQeQsy8xicW3Pnmww&usqp=CAU"
+  },
+  {
+    "website_name": "firework.tv",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://exchange4media.gumlet.io/news-photo/110641-works.jpg?format=webp&w=400&dpr=2.6"
+  },
+  {
+    "website_name": "coub",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://img2.pngio.com/coub-png-6-png-image-coub-png-300_300.png"
+  },
+  {
+    "website_name": "rumble",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://image.winudf.com/v2/image1/Y29tLmptZy5nb29kaW9faWNvbl8xNTUyMjAyNDU2XzA2Mw/icon.png?w=&fakeurl=1"
+  },
+  {
+    "website_name": "zingmp3",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.ibb.co/vdQT7x2/zing.jpg"
+  },
+  {
+    "website_name": "fw.tv",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/2b/51/03/2b5103cc-8727-dbde-4b2e-2c744dcbf11f/source/512x512bb.jpg"
+  },
+  {
+    "website_name": "veoh",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Veoh_Logo.svg/1200px-Veoh_Logo.svg.png"
+  },
+  {
+    "website_name": "bemate",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://www.businesstraveller.com/files/News-images/Bemate.com/Bemate.com-logo.jpg"
+  },
+  {
+    "website_name": "naver",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://play-lh.googleusercontent.com/jYtnK__ibJh9emODIgTyjZdbKym1iAj4RfoVhQZcfbG-DuTSHR5moHVx9CQnqg1yoco9"
+  },
+  {
+    "website_name": "blogspot",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://icons-for-free.com/iconfiles/png/512/blogger+blogspot+circle+gradient+social+social+media+icon-1320192519084880810.png"
+  },
+  {
+    "website_name": "solidfiles",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://pbs.twimg.com/profile_images/707001025388023809/B3gTwNrN_400x400.jpg"
+  },
+  {
+    "website_name": "traileraddict",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://lh3.googleusercontent.com/esPgGd2TyJYVoUfXwT0LYzOqcqxGnhtJIq0A-VlckJIp_y866oMOn6Z8WIJDfv7b5w=h300"
+  },
+  {
+    "website_name": "camdemy",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://www.camdemy.com/sys/res/icon/logo/sysbar_logo.png"
+  },
+  {
+    "website_name": "Media.ccc.de",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://i.pinimg.com/originals/b0/42/8d/b0428d0284c589d0dd86b9864a0f9517.jpg"
+  },
+  {
+    "website_name": "vidcommons.org",
+    "website_status": "true",
+    "show_status": "true",
+    "website_pic_url": "https://vidcommons.org/client/assets/images/favicon.png?24c4fe5736232829a4df70cd1c517b4044cdc088"
+  }
+]

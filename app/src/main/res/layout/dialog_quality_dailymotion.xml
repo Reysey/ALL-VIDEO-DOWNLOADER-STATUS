@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RadioGroup
+        android:id="@+id/radiogroup_dailymotion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+
+            android:id="@+id/rbtn_144"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="144p" />
+
+        <RadioButton
+            android:id="@+id/rbtn_240"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="240p" />
+
+        <RadioButton
+            android:id="@+id/rbtn_380"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="360p" />
+
+        <RadioButton
+            android:id="@+id/rbtn_480"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="480p" />
+
+        <RadioButton
+            android:id="@+id/rbtn_720"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="720p" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btn_downloadDailymotion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="Download" />
+
+</LinearLayout>

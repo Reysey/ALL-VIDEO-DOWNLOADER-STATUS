@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5278ff">
+
+    <View
+        android:id="@+id/view_status_bar"
+        android:layout_width="match_parent"
+        android:layout_height="24dp" />
+
+    <RelativeLayout
+        android:id="@+id/llLinkWeb"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:layout_below="@+id/view_status_bar"
+        android:orientation="horizontal"
+        android:padding="6dp">
+
+        <TextView
+            android:id="@+id/txtLinkWeb"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="6dp"
+            android:layout_marginRight="6dp"
+            android:layout_toLeftOf="@id/btnlogoutfb"
+            android:ellipsize="end"
+            android:lines="1"
+            android:textColor="@color/white"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/btnlogoutfb"
+            android:layout_width="36dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            app:srcCompat="@drawable/ic_exit_to_app_black_24dp"
+            app:tint="@color/white" />
+    </RelativeLayout>
+
+    <WebView
+        android:id="@+id/webViewFacebook"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/rlBottom"
+        android:layout_below="@+id/llLinkWeb"
+        android:background="#ffffff" />
+
+    <RelativeLayout
+        android:id="@+id/rlBottom"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_alignParentBottom="true"
+        android:background="#131d27"
+        android:paddingLeft="16dp">
+
+        <LinearLayout
+            android:id="@+id/btnBackBrowse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_gravity="center_vertical">
+
+            <ImageView
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/ic_back_browse" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="8dp"
+                android:gravity="center_vertical"
+                android:text="@string/back"
+                android:textColor="@android:color/white"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btnNextBrowse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="16dp"
+            android:layout_toRightOf="@+id/btnBackBrowse">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginRight="8dp"
+                android:gravity="center_vertical"
+                android:text="@string/next"
+                android:textColor="@android:color/white"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/ic_next_browse" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/btnHomeBrowse"
+            android:layout_width="36dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="4dp"
+            android:layout_toLeftOf="@+id/btnPasteUrl"
+            android:padding="10dp"
+            app:srcCompat="@drawable/selector_ic_home" />
+
+        <TextView
+            android:id="@+id/txtNumberClipboard"
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:layout_alignRight="@+id/btnPasteUrl"
+            android:layout_marginTop="6dp"
+            android:layout_marginRight="2dp"
+            android:background="@drawable/shape_red_circle"
+            android:gravity="center"
+            android:text="1"
+            android:textColor="#fff"
+            android:textSize="9sp"
+            android:visibility="gone" />
+
+        <ImageView
+            android:id="@+id/btnPasteUrl"
+            android:layout_width="36dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="4dp"
+            android:layout_toLeftOf="@+id/btnCloseBrowse"
+            android:padding="10dp"
+            app:srcCompat="@drawable/ic_clipboard" />
+
+        <ImageView
+            android:id="@+id/btnCloseBrowse"
+            android:layout_width="36dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="4dp"
+            android:padding="10dp"
+            app:srcCompat="@drawable/ic_close_24dp" />
+    </RelativeLayout>
+</RelativeLayout>

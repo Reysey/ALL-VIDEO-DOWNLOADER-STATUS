@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تمام ویڈیو ڈاؤنلوڈر</string>
+    <string name="info_permission_denied">معذرت کی اجازت سے انکار کردیا گیا۔ ہم آپ کے آلہ پر یہ ایپ نہیں کھول سکتے ہیں ، براہ کرم بعد میں دوبارہ کوشش کریں۔</string>
+    <string name="format_request_permision">فائلوں کو بچانے کے لئے٪ 1 $ s کو اپنے ایس ڈی کارڈ کو پڑھنے / لکھنے کی اجازت کی ضرورت ہوگی۔ کیا آپ اسے فراہم کرنا چاہتے ہیں؟</string>
+    <string name="SharingVideoSubject">ڈاؤن لوڈ کردہ ویڈیو کا اشتراک کرنا</string>
+    <string name="SharingVideoTitle">ویڈیو شئیر کرنا</string>
+    <string name="SharingVideoBody">ویڈیو فائل کا اشتراک کرنا</string>
+    <string name="RateAppTitle">اس ایپ کو پسند ہے؟</string>
+    <string name="RateApp">پلے اسٹور میں 5 ستاروں کی درجہ بندی کرکے محبت کا اشتراک کریں۔ 😘</string>
+    <string name="how_to_download_videos">ویڈیوز ڈاؤن لوڈ کرنے کے لئے کس طرح؟</string>
+    <string name="share_the_video_to_aio_video_downloader_app_or">• ویڈیو کو All ویڈیو ڈاؤنلوڈر ایپ (یا) میں شیئر کریں</string>
+    <string name="simply_copy_the_link_of_any_video">• کسی بھی ویڈیو کے لنک کو صرف کاپی کریں</string>
+    <string name="make_sure_auto_download_service_is_running">• یقینی بنائیں کہ \'آٹو ڈاؤن لوڈ سروس\' چل رہی ہے</string>
+    <string name="paste_video_url_here">ویڈیو URL یہاں چسپاں کریں …</string>
+    <string name="download">ڈاؤن لوڈ کریں</string>
+    <string name="options">اختیارات</string>
+    <string name="no_watermark">واٹر مارک نہیں ہے</string>
+    <string name="remove_watermark_from_downloaded_video">ڈاؤن لوڈ کردہ ویڈیو سے واٹر مارک کو ہٹا دیں</string>
+    <string name="auto_download">آٹو ڈاؤن لوڈ</string>
+    <string name="simply_copy_the_link_of_video_to_start_download">ڈاؤن لوڈ شروع کرنے کے لئے ویڈیو کے لنک کو صرف کاپی کریں</string>
+    <string name="currently_supports">فی الحال حمایت کرتا ہے</string>
+    <string name="tiktok">ٹکٹاک</string>
+    <string name="facebook">فیس بک</string>
+    <string name="instagram">انسٹاگرام</string>
+    <string name="youtube">یوٹیوب</string>
+    <string name="dailymotion">ڈیلی موشن</string>
+    <string name="topbuzz">ٹاپ بز</string>
+    <string name="twitter">ٹویٹر</string>
+    <string name="message_title">پیغام کا عنوان</string>
+    <string name="message_content">پیغام کا مواد</string>
+    <string name="auto_download_not_working">آٹو ڈاؤن لوڈ کام نہیں کررہا ہے؟</string>
+    <string name="make_sure_app_is_running_in_background">• یقینی بنائیں کہ پس منظر میں ایپ چل رہی ہے</string>
+    <string name="restart_the_app_if_that_doesn_t_work">• اگر کام نہیں ہوتا ہے تو ایپ کو دوبارہ شروع کریں</string>
+    <string name="contact_developer_before_leaving_a_negative_review">• منفی جائزہ لینے سے پہلے ڈویلپر سے رابطہ کریں</string>
+    <string name="author">مصنف</string>
+    <string name="music_author">موسیقی - مصنف</string>
+    <string name="description_goes_here">تفصیل یہاں جاتا ہے</string>
+    <string name="starting_download">ڈاؤن لوڈ شروع ہو رہا ہے…</string>
+    <string name="watch">دیکھو</string>
+    <string name="str_developed_with_love">پاکستان میں محبت کے ساتھ تخلیق کیا گیا</string>
+    <string name="download_fragment">ڈاؤن لوڈ کریں</string>
+    <string name="gallery_fragment">گیلری</string>
+    <string name="grant_option">عطا</string>
+    <string name="permission_title">اجازت ضروری ہے!</string>
+    <string name="cancel_option">منسوخ کریں</string>
+    <string name="rate_dialog">شرح</string>
+    <string name="later_btn">لیٹر</string>
+    <string name="auto_download_title_notification">آٹو ڈاؤن لوڈ سروس</string>
+    <string name="auto_download_title_notification_start">ڈاؤن لوڈ شروع کرنے کیلئے ویڈیو کا لنک کاپی کریں</string>
+    <string name="stop_btn">رکو</string>
+    <string name="restarted_service">سروس دوبارہ شروع کی گئی</string>
+    <string name="downloading_des">ڈاؤن لوڈ ہو رہا ہے</string>
+    <string name="url_not_suppotr">یہ یو آر ایل معاون نہیں ہے یا کوئی میڈیا نہیں ملا!</string>
+    <string name="we_cant_allow">ہم اس ویب سائٹ کی تشکیل ویڈیوز کو ڈاؤن لوڈ کرنے کی اجازت نہیں دے سکتے ہیں۔</string>
+    <string name="genarating_download_link">ڈاؤن لوڈ کا لنک تیار کرنا</string>
+    <string name="somthing">کچھ غلط ہو گیا!</string>
+    <string name="delete_confirm">منتخب ویڈیو مستقل طور پر حذف کردی جائے گی۔ اس کارروائی کو کالعدم نہیں کیا جاسکتا۔</string>
+    <string name="don_start">ڈاؤن لوڈ شروع!</string>
+    <string name="somth_video_wrong">ویڈیو چلاتے وقت کچھ غلط ہوگیا! دوبارہ کوشش کریں</string>
+    <string name="went_shARRE">ویڈیو شیئر کرتے وقت کچھ غلط ہو گیا! دوبارہ کوشش کریں</string>
+    <string name="error_occ">خرابی واقع ہوئی!</string>
+    <string name="install_fb">فیس بک ایپ انسٹال کریں</string>
+    <string name="install_tik">ٹکٹوک ایپ انسٹال کریں</string>
+    <string name="install_ins">انسٹاگرام ایپ انسٹال کریں</string>
+    <string name="enter_valid">براہ کرم ایک درست URI درج کریں</string>
+    <string name="aio_auto">All آٹو ڈاؤن لوڈ</string>
+    <string name="viemo">Vimeo</string>
+    <string name="developer_email">infusiblecoder@gmail.com</string>
+    <string name="sintony">sintony-regular.otf</string>
+    <string name="privacy_message"><b> ہم آپ کی رازداری کے تحفظ کے لئے پرعزم ہیں </b>\n
+ ہم آپ کے بارے میں کم سے کم معلومات جمع کرتے ہیں جو آپ کو اطمینان بخش خدمت مہیا کرنے کے موافق ہے۔ یہ پالیسی عمل کی وہ قسم کی نشاندہی کرتی ہے جس کے نتیجے میں آپ کے بارے میں ڈیٹا اکٹھا کیا جاسکتا ہے۔ اس ویب سائٹ کا آپ کے استعمال سے ہمیں یہ معلومات جمع کرنے کا حق ملتا ہے۔
+
+ \n <b> معلومات جمع </b>\n
+
+  ہم کسی بھی یا تمام معلومات کو جمع کرسکتے ہیں جو آپ ہمیں دیتے ہیں اس ویب سائٹ کے استعمال سے متعلق اعداد و شمار کے ساتھ ، آپ کا نام ، پتہ ، ٹیلیفون نمبر ، اور ای میل پتہ سمیت ، آپ جس قسم کے لین دین میں داخل ہوتے ہیں اس پر انحصار کرتے ہیں۔ دوسری معلومات جو وقتا فوقتا کسی درخواست پر کارروائی کرنے کے لئے درکار ہوتی ہیں وہ بھی جمع کی جاسکتی ہیں جیسا کہ ویب سائٹ پر اشارہ کیا گیا ہے۔
+
+\n <b> معلومات کا استعمال </b>\n
+
+ ہم جمع کردہ معلومات کو بنیادی طور پر اس کام پر کارروائی کرنے کے لئے استعمال کرتے ہیں جس کے لئے آپ نے ویب سائٹ کا دورہ کیا تھا۔ یوکے میں جمع کردہ ڈیٹا کو ڈیٹا پروٹیکشن ایکٹ کے مطابق رکھا گیا ہے۔ اس معلومات تک غیر مجاز رسائی کو روکنے کے لئے تمام معقول احتیاطی تدابیر اختیار کی گئیں ہیں۔ اگر آپ اپنے اکاؤنٹ کی تفصیلات کے بارے میں معلومات حاصل کرنا چاہتے ہیں تو یہ حفاظت گارڈ آپ کو شناخت کی اضافی شکلیں فراہم کرنے کی ضرورت کرسکتا ہے۔
+
+\n <b> کوکیز </b>\n
+
+ آپ کے انٹرنیٹ براؤزر میں چھوٹی فائلوں - "کوکیز" کو ذخیرہ کرنے کی اندرونی سہولت موجود ہے جس میں ایسی معلومات موجود ہیں جو کسی ویب سائٹ کو آپ کے اکاؤنٹ کو پہچاننے کی اجازت دیتی ہے۔ ہماری ویب سائٹ آپ کے تجربے کو بڑھانے کے ل this اس سہولت سے فائدہ اٹھاتی ہے۔ آپ کے پاس یہ صلاحیت موجود ہے کہ آپ اپنے کمپیوٹر کو کوکیز قبول کرنے سے روکیں لیکن ، اگر آپ ایسا کرتے ہیں تو ، ویب سائٹ پر کچھ فعالیت کمزور ہوسکتی ہے۔
+
+\n <b> معلومات ظاہر کرنا </b>\n
+
+ ہم اس ویب سائٹ سے تیسرے فریق کے بارے میں آپ کے بارے میں حاصل کردہ کسی بھی ذاتی معلومات کا انکشاف نہیں کرتے جب تک کہ آپ ہمیں رجسٹریشن یا مسابقتی فارموں میں متعلقہ خانوں کو ٹکرانے کی اجازت نہیں دیتے ہیں۔ ہم معلومات آپ کے ساتھ رابطے میں رکھنے اور ہم سے وابستہ پیشرفت سے آگاہ کرنے کے لئے بھی استعمال کرسکتے ہیں۔ آپ کو کسی بھی میلنگ لسٹ یا اسی طرح کے آلے سے خود کو ہٹانے کا موقع فراہم کیا جائے گا۔ اگر مستقبل میں کسی بھی وقت ہمیں کسی بھی تیسری پارٹی کو اس ویب سائٹ پر جمع کی گئی معلومات کا انکشاف کرنا چاہ. تو یہ صرف آپ کے علم اور رضامندی کے ساتھ ہوگا۔ ہم وقتا فوقتا تیسرے فریق کو عام نوعیت کی معلومات فراہم کرسکتے ہیں - مثال کے طور پر ، ہماری ویب سائٹ پر آنے یا اندراج فارم کو مکمل کرنے والے افراد کی تعداد ، لیکن ہم ایسی معلومات کا استعمال نہیں کریں گے جو ان افراد کی شناخت کرسکے۔ اس کے علاوہ ڈمی تیسری پارٹیوں کے ساتھ مل کر ڈمی ویب سائٹ پر ھدف بنائے جانے والے سلوک کے اشتہارات کی فراہمی کے لئے کام کرسکتا ہے۔ کوکیز کے استعمال کے ذریعہ ، آپ کو ہماری ویب سائٹوں اور دیگر ویب سائٹوں کے آپ کے استعمال کے بارے میں گمنام معلومات آپ کو سامان اور دلچسپی کی خدمات کے بارے میں مزید متعلقہ اشتہارات فراہم کرنے کے لئے استعمال کی جائیں گی۔ آن لائن طرز عمل سے متعلق اشتہار بازی اور اس خصوصیت کو بند کرنے کے طریقوں کے بارے میں مزید معلومات کے ل please ، براہ کرم infusiblecoder.com ملاحظہ کریں۔
+
+ \n<b> اس پالیسی میں تبدیلیاں </b>\n
+
+ ہماری رازداری کی پالیسی میں کسی قسم کی تبدیلیاں یہاں رکھی جائیں گی اور ہماری پالیسی کے اس ورژن کو خارج کردیں گی۔ ہماری پالیسی میں کسی تبدیلی کی طرف آپ کی توجہ مبذول کروانے کیلئے ہم معقول اقدامات کریں گے۔ تاہم ، محفوظ رخ پر رہنے کے ل we ، ہم آپ کو مشورہ دیتے ہیں کہ جب بھی آپ ویب سائٹ کا استعمال کرتے ہیں تو یہ دستاویز پڑھیں اس بات کا یقین کرنے کے لئے کہ یہ اب بھی آپ کی منظوری سے ملتا ہے۔
+
+ \n<b> ہم سے رابطہ </b>\n
+
+ اگر آپ کو ہماری رازداری کی پالیسی کے بارے میں کوئی سوالات ہیں ، یا اگر آپ جاننا چاہتے ہیں کہ ہم نے آپ کے بارے میں کیا معلومات جمع کیں ہیں تو ، براہ کرم ہمیں infusiblecoder@gmail.com پر ای میل کریں۔ آپ اس معلومات میں موجود کسی بھی حقائق کی غلطیوں کو بھی درست کرسکتے ہیں یا ہمیں اپنے تفصیلات میں سے کسی بھی فہرست کو تشکیل دینے کے لئے اپنی تفصیلات ہٹانے کی ضرورت کرتے ہیں۔</string>
+    <string name="privacy">رازداری کی پالیسی</string>
+    <string name="appnotinstalled">واٹس ایپ انسٹال نہیں ہے برائے مہربانی انسٹال کریں</string>
+    <string name="status_saver_gallery">اسٹیٹ سیور گیلری</string>
+    <string name="video_downloader_gallery">ویڈیو ڈاؤنلوڈر گیلری</string>
+    <string name="StatusSaver">اسٹیٹ سیور</string>
+    <string name="hello_blank_fragment">ہیلو خالی ٹکڑا</string>
+    <string name="gallery_name">گیلری</string>
+    <string name="language">زبان</string>
+    <string name="open_whatsapp">واٹس ایپ کھولیں</string>
+    <string name="rate_us">ہمیں درجہ دیں</string>
+    <string name="privacytxt">رازداری</string>
+    <string name="delete">حذف کریں</string>
+    <string name="select_quality">Select Quality</string>
+    <string name="noApp_f">اس فائل کو کھولنے کے لئے کوئی درخواست نہیں ملی۔</string>
+    <string name="file_del">فائل کو حذف کردیا گیا تھا</string>
+    <string name="are_sure_del">کیا آپ واقعی اس فائل کو حذف کرنا چاہتے ہیں؟</string>
+    <string name="del_tit">حذف کریں؟</string>
+    <string name="nn">نہیں</string>
+    <string name="yyy">جی ہاں</string>
+    <string name="vidd">\"ویڈیو؟\"</string>
+    <string name="selected_i">\" منتخب شدہ\"</string>
+    <string name="choose">منتخب کریں</string>
+    <string name="watch_arr">دیکھو</string>
+    <string name="del_arr">حذف کریں</string>
+    <string name="share_arr">بانٹیں</string>
+    <string name="saved_to">\"محفوظ کردہ:\"</string>
+    <string name="refre">تازہ دم!</string>
+    <string name="pernecessory">اجازت ضروری ہے</string>
+    <string name="write_neesory">تصاویر اور ویڈیوز ڈاؤن لوڈ کرنے کے ل Write اسٹوریج لکھنے کی اجازت ضروری ہے !!!</string>
+    <string name="yes">جی ہاں</string>
+    <string name="stor_saver">\"کہانی بچانے والا:\"</string>
+    <string name="se1">مرحلہ نمبر 1</string>
+    <string name="se_2">"مرحلہ نمبر 2 "</string>
+    <string name="se_3">"مرحلہ نمبر 3 "</string>
+    <string name="tap_wp">واٹس ایپ کھولنے کے لئے ٹیپ کریں۔</string>
+    <string name="vie_rec">حالیہ کہانیاں اور اوپن اسٹیٹس سیور دیکھیں۔</string>
+    <string name="dow_sto">آپ چاہتے ہیں کہانیاں ڈاؤن لوڈ ، اتارنا!</string>
+    <string name="invalid_url">غلط ویڈیو یو آر ایل یا انٹرنیٹ کنکشن کی جانچ کریں</string>
+    <string name="savedstt">\"محفوظ کردہ کہانیاں:\"</string>
+    <string name="install_ytd">یوٹیوب ایپ انسٹال کریں</string>
+    <string name="install_viemoo">Vimeo ایپ انسٹال کریں</string>
+    <string name="install_twi">ٹویٹر ایپ انسٹال کریں</string>
+    <string name="install_topbuzz">ٹاپ بز ایپ انسٹال کریں</string>
+    <string name="play_video_begin_des">ہوم اسکرین پر واپس آنے پر ویڈیو شروع سے چلائیں</string>
+    <string name="battery_saver">بیٹری سیور</string>
+    <string name="save_battery">بیٹری محفوظ کریں</string>
+    <string name="select_video">ویڈیو منتخب کریں</string>
+    <string name="set_up_video_wallpaper">ویڈیو وال پیپر مرتب کریں</string>
+    <string name="set_wallpaper">وال پیپر سیٹ کریں</string>
+    <string name="sound_on">آواز جاری ہے</string>
+    <string name="sound_play_begin">شروع سے کھیلیں</string>
+    <string name="open_sound_of_video">ویڈیو کی کھلی آواز</string>
+    <string name="error_emty_video">غلطی! ویڈیو کا انتخاب کریں</string>
+    <string name="please_select_video">براہ کرم ویڈیو منتخب کریں</string>
+    <string name="rate_it">ٹھیک ہے</string>
+    <string name="alert">انتباہ</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="txt_exit">کیا آپ باہر نکلنا چاہتے ہیں؟</string>
+    <string name="app_description">ویڈیو لائیو وال پیپر</string>
+    <string name="extrafeatures">اضافی خصوصیات</string>
+    <string name="loading">لوڈ ہو رہا ہے ،. . .</string>
+    <string name="tik_inaspp">ٹکٹوک اناپ دیکھیں</string>
+    <string name="privacy_policy">رازداری کی پالیسی</string>
+    <string name="share">بانٹیں</string>
+    <string name="rate_app">شرح ایپ</string>
+    <string name="more_apps">زیادہ اطلاقات</string>
+    <string name="copy_youtube">کاپی</string>
+    <string name="copy_done">کاپی</string>
+    <string name="contact_us">ہم سے رابطہ کریں</string>
+    <string name="about_us">ہمارے بارے میں</string>
+    <string name="dashboard">گھر</string>
+    <string name="about_us_content">آپ کی معلومات یہاں</string>
+    <string name="contact_us_content">آپ سے رابطہ کی معلومات یہاں</string>
+    <string name="hashtags_copied">ہیش ٹیگز کاپی</string>
+    <string name="ytd_hashtag">یوٹیوب ہسٹگ جنریٹر</string>
+    <string name="tags_activity">ٹیگز</string>
+    <string name="do_you_want_open_insta">کیا آپ انسٹاگرام کھولنا چاہتے ہیں؟</string>
+    <string name="btn_no">نہیں</string>
+    <string name="btn_yes">جی ہاں</string>
+    <string name="title_activity_help">مدد</string>
+    <string name="title_activity_settings">ترتیبات</string>
+    <string name="setting_label_app_name">درخواست نام</string>
+    <string name="setting_label_version">تعمیر ورژن</string>
+    <string name="setting_label_help">مدد</string>
+    <string name="setting_title_help">اس ایپ کو کس طرح استعمال کریں؟</string>
+    <string name="setting_label_rate">ہمیں درجہ دیں</string>
+    <string name="setting_title_rate">براہ کرم اپنے مثبت جائزے کے ساتھ ہماری مدد کریں</string>
+    <string name="setting_label_share">اسے بانٹئے</string>
+    <string name="setting_title_share">ہماری ایپ کو اپنے دوستوں اور کنبہ کے ساتھ شیئر کریں</string>
+    <string name="setting_label_contact">ہم سے رابطہ کریں</string>
+    <string name="setting_title_contact">اپنی درخواست بہتر بنانے میں ہماری مدد کریں</string>
+    <string name="setting_label_privacy">رازداری کی پالیسی</string>
+    <string name="setting_title_privacy">براہ کرم ہماری پرائیویسی پالیسی یہاں دیکھیں</string>
+    <string name="mssg_share">پیغام بانٹیں</string>
+    <string name="share_via">کے ذریعے شیئر کریں</string>
+    <string name="subject">سبجیکٹ یہاں</string>
+    <string name="improvement_title">آراء</string>
+    <string name="improvement">ہمیں بتائیں کہ ہم جلد سے جلد کہاں بہتری لائیں گے</string>
+    <string name="submit_btn">جمع کرائیں</string>
+    <string name="never_btn">کبھی نہیں</string>
+    <string name="rate_later_btn">ابھی نہیں</string>
+    <string name="rate_message">براہ کرم ، ہمیں شیئر کریں کہ آپ کا تجربہ ہمارے ساتھ کیسا رہا؟</string>
+    <string name="update_title">نئی تازہ کاری دستیاب ہے</string>
+    <string name="update_mssg">جدید ترین خصوصیات اور بگ فکسس کو حاصل کرنے کے لئے دستیاب تازہ ترین ورژن دیکھیں</string>
+    <string name="positive_btn">تازہ ترین کریں. جدید بنایں</string>
+    <string name="negative_btn">بعد میں</string>
+    <string name="btn_copy_open_insta">کاپی کریں &amp; # 38؛ انسٹاگرام کھولیں</string>
+    <string name="btn_copy">کاپی</string>
+    <string name="btn_rate">شرح</string>
+    <string name="btn_share">بانٹیں</string>
+    <string name="btn_settings">ترتیبات</string>
+    <string name="big_title_splash">زیادہ مشہور بنیں اور ہیش ٹیگز تلاش کریں!</string>
+    <string name="small_title_spalsh">آپ کو معلوم ہوگا کہ کس طرح زیادہ مقبول ہونا ہے ، اصلی لوگوں سے زیادہ نامیاتی پسند اور پیروکار حاصل کریں گے۔</string>
+    <string name="btn_star">شروع کریں</string>
+    <string name="ver">\"ورژن\"</string>
+    <string name="copydb">ڈیٹا بیس کی کامیابیوں کو کاپی کریں</string>
+    <string name="dopydb">کاپی ڈیٹا میں غلطی</string>
+    <string name="gallery_fragment_statussaver">گیلری</string>
+    <string name="StatusSaver_gallery">اسٹیٹس گیلری</string>
+    <string name="likee">جیسے</string>
+    <string name="view_more_supported_apps">مزید معاون ایپس دیکھیں</string>
+    <string name="error_occord_while">جب اپلی کیشن کو کھولتے ہو تو غلطی ہوتی ہے ، برائے کرم اسے دستی طور پر کھولیں</string>
+    <string name="open_gallery">گیلری ، نگارخانہ ملاحظہ کریں</string>
+    <string name="doyouseead">آٹو ڈاؤن لوڈ کو فعال کرنے کے ل You آپ کو ایک اشتہار ضرور دیکھنا چاہئے۔ کیا آپ ایک دیکھنا چاہتے ہیں؟</string>
+    <string name="watchad">ویڈیو اشتہار دیکھیں</string>
+    <string name="enabAuto">آٹو ڈاؤن لوڈ کو فعال کریں</string>
+    <string name="completad">آپ کو مکمل اشتہار دیکھنا چاہئے</string>
+    <string name="videofailedload">انعام یافتہ ویڈیو اشتہار لوڈ ہونے میں ناکام</string>
+    <string name="videonotavaliabl">انعام کا ویڈیو دستیاب نہیں ہے</string>
+    <string name="show_businesswhatsapp">شو_بزنس واٹس ایپ</string>
+    <string name="show_mainwhatsapp">مین واٹس ایپ اسٹیٹس</string>
+    <string name="supported_social_networking_apps">تائید شدہ سوشل نیٹ ورکنگ ایپس</string>
+    <string name="other_supported_apps">دیگر تائید شدہ ایپس</string>
+    <string name="ultimately_its_all_about_love_nrate_now">بالآخر اس کی محبت کے بارے میشرح اب</string>
+    <string name="do_you_find_our_new_version_n_more_beautiful_more_playful_amp_more_useful_nif_yes_show_us_your_love">ا آپ کو ہمارا نیا ورژن؟ n مزید خوبصورت ، زیادہ زندہ دل اور زیادہ مفید ہے؟ . n اگر ہاں ، ہمیں اپنا پیار دکھائیں۔</string>
+    <string name="not_now">ابھی نہیں</string>
+    <string name="youtube_hashtag_genarator">یوٹیوب ہیش ٹیگ جنریٹر</string>
+    <string name="with_watermark">واٹر مارک کے ساتھ</string>
+    <string name="without_watermark">واٹر مارک کے بغیر</string>
+    <string name="which_video_type_do_you_want_to_download_n_n_note_mp3_files_will_be_located_in_the_app_downloads_folder_it_will_not_be_shown_in_the_gallery_of_the_app_for_now">آپ کس قسم کی ویڈیو ڈاؤن لوڈ کرنا چاہتے ہیں؟</string>
+    <string name="step_2">مرحلہ 2:</string>
+    <string name="tool_that_help_you_to_grow_your_profile_get_more_organic_likes_and_followers">وہ آلہ جو آپ کے پروفائل کو بڑھانے میں مدد کرتا ہے اور زیادہ نامیاتی پسند اور پیروکار حاصل کرتا ہے</string>
+    <string name="step_1">مرحلہ نمبر 1:</string>
+    <string name="send">بھیجیں</string>
+    <string name="select_a_video_and_make_it_your_live_video_wallpaper">ایک ویڈیو منتخب کریں اور اسے اپنا براہ راست ویڈیو وال پیپر بنائیں</string>
+    <string name="repost">پوسٹ کریں</string>
+    <string name="or">یا</string>
+    <string name="no_need_to_install_tiktok_app_open_tiktok_here">یہاں تیکٹوک ایپ کو کھولنے کی ضرورت نہیں ہے</string>
+    <string name="more_features_coming_soon">مزید خصوصیات جلد آرہی ہیں</string>
+    <string name="live_video_wallpaper">براہ راست ویڈیو وال پیپر</string>
+    <string name="instagram_hashtags_likes_and_followers">انسٹاگرام ہیش ٹیگس - پسند اور پیروکار</string>
+    <string name="genarate_the_best_hashtags_for_youtube">یوٹیوب کے لئے بہترین ہیش ٹیگ تیار کریں</string>
+    <string name="firstly_you_need_to_choose_the_categorie_of_the_tags_that_you_need_to_use_in_your_instagrame_post_or_in_other_social_media">سب سے پہلے آپ کو ان ٹیگس کا زمرہ منتخب کرنے کی ضرورت ہے جو آپ کو اپنے انسٹاگرام پوسٹ میں یا دوسرے سوشل میڈیا میں استعمال کرنے کی ضرورت ہے</string>
+    <string name="download_mp3">MP3 ڈاؤن لوڈ</string>
+    <string name="consent_sdk">متفقہ ایس ڈی کے</string>
+    <string name="coming_soon">جلد آرہا ہے</string>
+    <string name="change_the_consent_settings">رضامندی کی ترتیبات کو تبدیل کریں!</string>
+    <string name="are_you_sure_you_want_to_exit">کیا آپ کو یقین ہے کہ آپ ہیاں سے نکلنا چاہتے ہیں ؟</string>
+    <string name="_3_finaly_past_those_hashtags_on_your_post_and_wait_to_get_the_organic_likes_and_followers">3- آخر میں اپنی پوسٹ پر ان ہیش ٹیگز کو ماضی میں رکھیں اور نامیاتی پسندیدگان اور پیروکاروں کو حاصل کرنے کا انتظار کریں</string>
+    <string name="_2_after_that_copy_the_hashtags_by_click_on_copy_button_or_click_on_copy_38_open_instagram">2- اس کے بعد کاپی بٹن پر کلک کرکے ہیش ٹیگز کی کاپی کریں یا کاپی پر کلک کریں۔ انسٹاگرام کھولیں</string>
+    <string name="_1_then_you_can_choose_the_sub_categorie_that_you_need_to_use">1- اس کے بعد آپ ذیلی زمرے کا انتخاب کرسکتے ہیں جو آپ کو استعمال کرنے کی ضرورت ہے</string>
+    <string name="sharechat">ShareChat</string>
+    <string name="install_sharechat">شیئر چیٹ ایپ انسٹال کریں</string>
+    <string name="install_roposo">install Roposo</string>
+    <string name="install_likee">install Likee</string>
+    <string name="download_facebook_stories">فیس بک کی کہانیاں ڈاؤن لوڈ کریں</string>
+    <string name="delete_confirm_image">منتخب کردہ تصویر مستقل طور پر حذف کردی جائے گی۔ اس کارروائی کو کالعدم نہیں کیا جاسکتا۔</string>
+    <string name="viewimage">تصویر دیکھنا</string>
+    <string name="instaimage">تصاویر</string>
+    <string name="instagram_private_downlaod">انسٹاگرام نجی میڈیا ڈاؤن لوڈ کریں</string>
+    <string name="download_tiktok_video">ٹکٹوک ویڈیو ڈاؤن لوڈ کریں</string>
+    <string name="earn_money_with_qureka_lite_n_play_quizzes_in_over_25_categories_n_prize_money_upto_rs_1_lac_daily">قریکہ لائٹ سے رقم کمائیں</string>
+    <string name="earn_money">"  25 سے زیادہ زمروں میں کوئز کھیلو۔"</string>
+    <string name="bulkdownloader">"  روپے تک انعام کی رقم 1 لاکھ روزانہ۔"</string>
+    <string name="instagram_bulkdownloaderstring">انسٹاگرام صارفین کی مکمل پروفائلیاں ڈاؤن لوڈ کریں</string>
+    <string name="audios">آڈیوز</string>
+    <string name="preview_not">پیش نظارہ دستیاب نہیں ہے</string>
+    <string name="SharingimageSubject">ڈاؤن لوڈ امیج کا اشتراک کرنا</string>
+    <string name="SharingimageTitle">شیئرنگ امیج</string>
+    <string name="SharingimageBody">شیئرنگ تصویری فائل</string>
+    <string name="audio_text"><font color="#FF0400"><i>آڈیوز:</i></font></string>
+    <string name="videos_text"><font color="#FF0400"><i>ویڈیوز:</i></font></string>
+    <string name="loginfirst">نتائج حاصل کرنے کے ل You آپ کو پہلے لاگ ان کرنا ہوگا</string>
+    <string name="removeads">اشتہارات کو ہٹا دیں</string>
+    <string name="update_now">تازہ ترین کریں. جدید بنایں</string>
+
+
+    <string name="fb_story">"fbstory ڈاؤن لوڈ، اتارنا"</string>
+    <string name="no_fb_story">"فیس بک اکاؤنٹ سے کہانیاں ڈاؤن لوڈ نہیں کرنا چاہتے ہیں"</string>
+    <string name="noprivatedownload">"کوئی نجی ڈاؤن لوڈ، اتارنا"</string>
+    <string name="no_private_insta">"نجی اکاؤنٹ سے میڈیا کو ڈاؤن لوڈ کرنا چاہتے ہیں"</string>
+    <string name="listandstatus">ویب سائٹس کی فہرست کی حیثیت &gt;.</string>
+    <string name="fb_stories_txt">ایف بی کی کہانیاں</string>
+    <string name="no_result_found">کوئی نتیجہ نہیں ملا</string>
+    <string name="search_a_username">ایک صارف نام کے لئے تلاش کریں</string>
+    <string name="post">پوسٹ</string>
+    <string name="followers">پیروکاروں</string>
+    <string name="followings">مندرجہ ذیل</string>
+    <string name="cookiesnotvalid">کوکی درست نہیں ہے، دوبارہ لاگ ان کرنے کی کوشش کریں</string>
+    <string name="loadingfiles">لوڈ کر رہا ہے فائلیں ....</string>
+    <string name="title">عنوان</string>
+    <string name="duration">دورانیہ</string>
+    <string name="source">ذریعہ</string>
+    <string name="resolution">قرارداد</string>
+    <string name="filesize">فائل کا ناپ</string>
+    <string name="nostoryfound">کوئی انسٹا کہانی نہیں ملی</string>
+    <string name="stories">کہانیاں</string>
+    <string name="noresult">کوئی نتیجہ نہیں ملا</string>
+    <string name="taptoloadmore">مزید لوڈ کرنے کے لئے ٹیپ کریں</string>
+    <string name="youneedloginfirest">آپ کو نتائج حاصل کرنے کے لئے سب سے پہلے لاگ ان کرنے کی ضرورت ہے</string>
+    <string name="nodeifittakeslonger">لوڈ کر رہا ہے .... نوٹ کریں اگر یہ طویل عرصہ لگتا ہے تو 1 منٹ اپلی کیشن کو بند کریں اور دوبارہ کوشش کریں</string>
+    <string name="loadingdata">ڈیٹا لوڈ کر رہا ہے، برائے مہربانی انتظار کریں …</string>
+    <string name="play">کھیلیں</string>
+    <string name="select_the_desigred_methode_to_download_tiktok_try_the_other_one_if_one_dosent_work">ٹکٹوک ڈاؤن لوڈ کرنے کے لئے مطلوبہ طریقہ منتخب کریں ، اگر کوئی کام نہیں کرتا ہے تو دوسرا طریقہ آزمائیں</string>
+    <string name="methode_1">طریقہ 1</string>
+    <string name="methode_2">طریقہ 2</string>
+    <string name="methode_3">طریقہ 3</string>
+    <string name="methode_4">طریقہ 4</string>
+    <string name="methode_5">طریقہ 5</string>
+    <string name="adsareremoved">آپ کے اشتہار ہٹائے گئے ہیں ، ایپ کو دوبارہ اسٹارٹ کرنا یقینی بنائیں</string>
+    <string name="purchasedone">خریداری ہو گئی</string>
+    <string name="itemowned">آئٹم کے مالک ہیں</string>
+    <string name="methode_0">طریقہ 0</string>
+    <string name="updqteavaliable">نئی تازہ کاری دستیاب ہے</string>
+    <string name="update">اپ ڈیٹ</string>
+    <string name="updateisavaliabledownload">ڈاؤن لوڈ کے لئے دستیاب ہے۔</string>
+    <string name="back">پیچھے</string>
+    <string name="next">اگلے</string>
+    <string name="logininsta">لاگ ان کریں</string>
+    <string name="urlisprivate">ایپ میں لاگ ان ہونے کے بعد یہ یو آر ایل غلط ہے یا نجی</string>
+    <string name="Areyousureyou_download">کیا آپ واقعی یہ ویڈیو ڈاؤن لوڈ کرنا چاہتے ہیں؟</string>
+    <string name="logout">لاگ آوٹ</string>
+    <string name="areyousure_logout">کیا آپ کو یقین ہے کہ آپ لاگ آؤٹ کرنا چاہتے ہیں؟</string>
+    <string name="facebook_private_video_downlaoder">فیس بک نجی ویڈیو ڈاؤن لوڈ، اتارنا</string>
+    <string name="downlaod_facebook_private_video_from_this_section">اس سیکشن سے فیس بک نجی ویڈیو ڈاؤن لوڈ کریں</string>
+    <string name="hdlink">ایچ ڈی لنکس</string>
+    <string name="sdlink">ایسڈی لنک</string>
+    <string name="audioonly">صرف آڈیو</string>
+    <string name="pressagain">براہ کرم باہر نکلنے کیلئے دوبارہ دبائیں</string>
+    <string name="description_permission">اسٹوریج فائلیں آپ کی ڈاؤن لوڈ فائلوں کو بچانے کے لئے اور واٹس ایپ اسٹیٹس سیور کیلئے کام کرنا ضروری ہے ، اگر آپ اس اجازت کی اجازت نہ دیتے ہیں تو کچھ خصوصیات کام نہیں کرسکتی ہیں</string>
+    <string name="note_auto_download_feature_only_works_on_android_9_or_below"><b><u> نوٹ: </u> </b> خود ڈاؤن لوڈ کی خصوصیت صرف Android 9 یا اس سے نیچے پر کام کرتی ہے</string>
+</resources>

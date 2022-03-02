@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.KhunHtetzNaing:xGetter:3.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/831571a2a7c20fcb47c97a2201317966/jetified-xGetter-3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/831571a2a7c20fcb47c97a2201317966/jetified-xGetter-3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/831571a2a7c20fcb47c97a2201317966/jetified-xGetter-3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4219c117957a8f7e886e907b1fd5c490/jetified-xGetter-3.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4219c117957a8f7e886e907b1fd5c490/jetified-xGetter-3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4219c117957a8f7e886e907b1fd5c490/jetified-xGetter-3.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89559e3b738623840219bd8f63b453c9/jetified-xGetter-3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89559e3b738623840219bd8f63b453c9/jetified-xGetter-3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/89559e3b738623840219bd8f63b453c9/jetified-xGetter-3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.KhunHtetzNaing/xGetter/3.0/549d30c2737858f79aa693feace30adbaed5be1/xGetter-3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

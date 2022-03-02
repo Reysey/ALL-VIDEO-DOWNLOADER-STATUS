@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.infusiblecoder.allinonevideodownloader">
+
+    <uses-sdk tools:overrideLibrary="com.arthenica.mobileffmpeg,com.zhkrb.cloudflare_scrape_webview" />
+
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:description="@string/description_permission" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:description="@string/description_permission" />
+
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+    <uses-permission
+        android:name="android.permission.WRITE_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.ACCESS_MEDIA_LOCATION" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+<!--    -->
+<!--    <uses-permission android:name="android.permission.ACTION_MANAGE_OVERLAY_PERMISSION"  />-->
+<!--    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />-->
+
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.EXPAND_STATUS_BAR" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission
+        android:name="android.permission.ACCESS_WIFI_STATE"
+        tools:node="remove" />
+    <queries>
+        <package android:name="com.whatsapp" />
+        <package android:name="com.whatsapp.w4b" />
+        <package android:name="com.facebook.katana" />
+        <package android:name="com.zhiliaoapp.musically" />
+        <package android:name="com.instagram.android" />
+        <package android:name="com.twitter.android" />
+        <package android:name="com.google.android.youtube" />
+        <package android:name="com.roposo.android" />
+        <package android:name="in.mohalla.sharechat" />
+        <package android:name="video.like" />
+
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <category android:name="android.intent.category.BROWSABLE" />
+            <data android:scheme="https" />
+        </intent>
+    </queries>
+    <queries>
+        <intent>
+            <action android:name="android.intent.action.VIEW" />
+            <data android:scheme="*" />
+        </intent>
+    </queries>
+
+
+    <application
+        android:name=".Appcontroller"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_appicon"
+        android:installLocation="preferExternal"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:requestLegacyExternalStorage="true"
+        android:preserveLegacyExternalStorage="true"
+        android:roundIcon="@drawable/ic_appicon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+
+        <activity
+            android:exported="false"
+            android:name=".facebookstorysaver.FacebookPrivateWebview"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:exported="false" android:name=".activities.GetLinkThroughWebview" />
+        <activity android:exported="false" android:name=".activities.BulkDownloaderProfileActivity" />
+        <activity  android:exported="false" android:name=".activities.InstagramBulkDownloader" />
+        <activity
+            android:name=".activities.SplashScreen"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:exported="false"
+            android:name=".activities.AllSupportedApps"
+            android:parentActivityName=".activities.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+            android:name=".extraFeatures.TikTokWebview"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:exported="false"
+            android:name="com.facebook.ads.AudienceNetworkActivity"
+            android:hardwareAccelerated="true" />
+
+        <provider
+            android:name=".utils.MyFileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_provider_paths" />
+        </provider>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/AdmobAppId" />
+
+        <activity
+            android:exported="true"
+            android:name=".activities.MainActivity"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:hardwareAccelerated="true">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:exported="true"
+            android:name=".extraFeatures.videolivewallpaper.MainActivityLivewallpaper"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:name=".activities.RateUsWebView"
+            android:exported="false"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+            android:name=".activities.FullImageActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+            android:name=".activities.InstagramLoginActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+            android:name=".activities.TikTokDownloadWebview"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+            android:name=".extraFeatures.EarningAppWebviewActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+            android:name=".facebookstorysaver.fbutils.LoginWithFB"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+            android:name=".activities.GetTiktokLinkThroughWebview"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <service
+            android:exported="true"
+            android:name=".extraFeatures.videolivewallpaper.CinimaWallService"
+            android:label="@string/app_name"
+            android:permission="android.permission.BIND_WALLPAPER">
+            <intent-filter>
+                <action android:name="android.service.wallpaper.WallpaperService" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.service.wallpaper"
+                android:resource="@xml/config" />
+        </service>
+        <service
+            android:exported="false"
+            android:name=".services.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name=".services.ClipboardMonitor"
+            android:exported="false"
+            android:label="Clipboard Monitor"
+            android:stopWithTask="false" />
+        <service
+            android:name=".services.FloatingWidgetDownload"
+            android:enabled="true"
+            android:exported="false" />
+
+        <receiver
+            android:exported="true"
+            android:name=".receiver.Receiver">
+            <intent-filter>
+                <action android:name="quit_action" />
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name=".services.Restarter">
+            <intent-filter>
+                <action android:name="restartservice" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".activities.VideoPlayActivity"
+            android:configChanges="screenSize|smallestScreenSize|screenLayout|orientation"
+            android:launchMode="singleInstance"
+            android:resizeableActivity="true"
+            android:exported="true"
+            android:windowSoftInputMode="adjustNothing"
+            android:supportsPictureInPicture="true"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:exported="false"
+
+            android:parentActivityName=".activities.MainActivity"
+            android:name=".tiktok_methods.TikTokDownloadCloudBypassWebview"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+
+            android:parentActivityName=".activities.MainActivity"
+            android:name=".tiktok_methods.TikTokDownloadCloudBypassWebview_method_3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:parentActivityName=".activities.MainActivity"
+            android:exported="false"
+
+            android:name=".tiktok_methods.TikTokDownloadCloudBypassWebview_method_4"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+
+            android:parentActivityName=".activities.MainActivity"
+            android:name=".tiktok_methods.TikTokDownloadCloudBypassWebview_method_5"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+
+            android:parentActivityName=".activities.MainActivity"
+            android:name=".tiktok_methods.TikTokDownloadCloudBypassWebview_method_2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+
+            android:parentActivityName=".activities.MainActivity"
+            android:name=".tiktok_methods.TikTokDownloadCloudBypassWebview_method_6"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+
+            android:parentActivityName=".activities.MainActivity"
+            android:name=".tiktok_methods.TikTokDownloadCloudBypassWebview_method_7"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+
+            android:name=".activities.GalleryActivity"
+            android:parentActivityName=".activities.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+            android:name="com.ironsource.sdk.controller.ControllerActivity"
+            android:configChanges="orientation|screenSize"
+            android:hardwareAccelerated="true" />
+        <activity
+            android:exported="false"
+            android:name="com.ironsource.sdk.controller.InterstitialActivity"
+            android:configChanges="orientation|screenSize"
+            android:hardwareAccelerated="true"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:exported="false"
+            android:name="com.ironsource.sdk.controller.OpenUrlActivity"
+            android:configChanges="orientation|screenSize"
+            android:hardwareAccelerated="true"
+            android:theme="@android:style/Theme.Translucent" />
+
+        <provider
+            android:authorities="${applicationId}.IronsourceLifecycleProvider"
+            android:name="com.ironsource.lifecycle.IronsourceLifecycleProvider"
+            android:exported="false" />
+
+        <activity
+            android:parentActivityName=".activities.MainActivity"
+            android:exported="false"
+
+            android:name=".tiktok_methods.FacebookDownloadCloudBypassWebview_method_1"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity
+            android:parentActivityName=".activities.MainActivity"
+            android:exported="false"
+
+            android:name=".tiktok_methods.FacebookDownloadCloudBypassWebview_method_2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+            android:name=".activities.StatusSaverActivity"
+            android:parentActivityName=".activities.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+            android:name=".activities.SettingActivity"
+            android:parentActivityName=".activities.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:exported="false"
+            android:name=".activities.AboutUsActivity"
+            android:parentActivityName=".activities.SettingActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <provider
+            android:name="com.ironsource.lifecycle.IronsourceLifecycleProvider"
+            android:authorities="${applicationId}.IronsourceLifecycleProvider"
+            android:exported="false" />
+    </application>
+
+</manifest>

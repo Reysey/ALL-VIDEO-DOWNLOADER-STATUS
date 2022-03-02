@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_removeads"
+        android:icon="@drawable/ic_ad_block"
+        android:title="@string/removeads"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_language"
+        android:icon="@drawable/ic_language_black_24dp"
+        android:title="@string/language"
+        android:visible="true"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/ic_whatapp"
+        android:icon="@drawable/ic_whatsapp"
+        android:title="@string/open_whatsapp"
+        android:visible="false"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/action_rate"
+        android:icon="@drawable/ic_favorite_24dp"
+        android:title="@string/rate_us"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_privacy"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/privacytxt"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_downloadtiktok"
+        android:icon="@drawable/ic_whatsapp"
+        android:title="@string/download_tiktok_video"
+        android:visible="false"
+        app:showAsAction="never" />
+
+
+</menu>

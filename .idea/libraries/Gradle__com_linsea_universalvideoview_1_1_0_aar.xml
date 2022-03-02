@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.linsea:universalvideoview:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8cc78abd91edeab45d473a379b2ad46b/jetified-universalvideoview-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8cc78abd91edeab45d473a379b2ad46b/jetified-universalvideoview-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8cc78abd91edeab45d473a379b2ad46b/jetified-universalvideoview-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/51c1d6e1d8fc183398f6d4442626da9e/jetified-universalvideoview-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/51c1d6e1d8fc183398f6d4442626da9e/jetified-universalvideoview-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/51c1d6e1d8fc183398f6d4442626da9e/jetified-universalvideoview-1.1.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc1e358d3097647e44e3876d91718081/jetified-universalvideoview-1.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc1e358d3097647e44e3876d91718081/jetified-universalvideoview-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc1e358d3097647e44e3876d91718081/jetified-universalvideoview-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.linsea/universalvideoview/1.1.0/5393a858f2c040e2c7a21f49061836738c38eb73/universalvideoview-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.linsea/universalvideoview/1.1.0/b141292b9f377bcb1816ccc08148a162590c76f1/universalvideoview-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

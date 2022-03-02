@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Gradle: com.suddenh4x.ratingdialog:awesome-app-rating:2.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a5ea8bb3c8734185d91451cfc83d6589/jetified-awesome-app-rating-2.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a5ea8bb3c8734185d91451cfc83d6589/jetified-awesome-app-rating-2.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a5ea8bb3c8734185d91451cfc83d6589/jetified-awesome-app-rating-2.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df519cacb1804e394caf029bf327dd8f/jetified-awesome-app-rating-2.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df519cacb1804e394caf029bf327dd8f/jetified-awesome-app-rating-2.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/df519cacb1804e394caf029bf327dd8f/jetified-awesome-app-rating-2.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa3457d63fb55afd1f923513ee6d6c71/jetified-awesome-app-rating-2.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa3457d63fb55afd1f923513ee6d6c71/jetified-awesome-app-rating-2.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa3457d63fb55afd1f923513ee6d6c71/jetified-awesome-app-rating-2.4.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.suddenh4x.ratingdialog/awesome-app-rating/2.4.0/bc16ab71b643db1881380dd22203e1c447922909/awesome-app-rating-2.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

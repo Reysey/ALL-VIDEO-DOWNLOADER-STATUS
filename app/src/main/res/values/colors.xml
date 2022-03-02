@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="themedark">#01294b</color>
+    <!--    android:endColor="#ef473a"-->
+    <!--    android:startColor="#cb2d3e"-->
+    <color name="colorPrimary">#ef473a</color>
+    <color name="colorPrimaryDark">#cb2d3e</color>
+    <color name="colorAccent">#ff8c8a</color>
+    <color name="colorTips">#ffb48f35</color>
+    <color name="colorDefaultDark">#ff262328</color>
+
+    <color name="colorButton">#00ffffff</color>
+    <color name="colorNegative">#c62828</color>
+    <color name="colorPositive">#000000</color>
+    <color name="colorNavText">#ffffff</color>
+    <color name="colorSettings">#40000000</color>
+    <color name="colorClick">#abcdef</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="darkblue">#23283a</color>
+    <color name="pink">#fe104d</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+    <color name="colorPurple">#ab47bc</color>
+    <color name="colorTransparentBlack">#CD030303</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorInstagramContentButtons">#D81B60</color>
+    <color name="colorYoutubeContentButtons">#FF0400</color>
+    <color name="colorTwitterContentButtons">#039BE5</color>
+
+
+    <color name="white">#ffffff</color>
+    <color name="white_2">#F1EAEA</color>
+    <color name="yellow">#efdc09</color>
+    <color name="colorSecondary">#405de6</color>
+    <color name="transparent_open">#10000000</color>
+    <color name="transparent_dark">#80000000</color>
+    <color name="bg">#f4f7fd</color>
+    <color name="grey_dd_main">#9DA1B4</color>
+</resources>

@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Gradle: com.codemybrainsout.rating:ratingdialog:1.0.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f516ffe8997d0bd54063b0f6a7bdbd6/jetified-ratingdialog-1.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f516ffe8997d0bd54063b0f6a7bdbd6/jetified-ratingdialog-1.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7f516ffe8997d0bd54063b0f6a7bdbd6/jetified-ratingdialog-1.0.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0376424cc99d3536863c7d17374e6aeb/jetified-ratingdialog-1.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0376424cc99d3536863c7d17374e6aeb/jetified-ratingdialog-1.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0376424cc99d3536863c7d17374e6aeb/jetified-ratingdialog-1.0.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ccfdab6f1440bf292d81efc823c922e8/jetified-ratingdialog-1.0.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ccfdab6f1440bf292d81efc823c922e8/jetified-ratingdialog-1.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ccfdab6f1440bf292d81efc823c922e8/jetified-ratingdialog-1.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fdb601f4d58a060be2e8e15e7a50059b/jetified-ratingdialog-1.0.8/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fdb601f4d58a060be2e8e15e7a50059b/jetified-ratingdialog-1.0.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fdb601f4d58a060be2e8e15e7a50059b/jetified-ratingdialog-1.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b43da8e1a51a409f7f7678cc8a404bc6/jetified-ratingdialog-1.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b43da8e1a51a409f7f7678cc8a404bc6/jetified-ratingdialog-1.0.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b43da8e1a51a409f7f7678cc8a404bc6/jetified-ratingdialog-1.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ca138c1bcb554ce471299883644e34f/jetified-ratingdialog-1.0.8/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ca138c1bcb554ce471299883644e34f/jetified-ratingdialog-1.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8ca138c1bcb554ce471299883644e34f/jetified-ratingdialog-1.0.8/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5dcabab4c6eccd2e8aa2da09860934f1/jetified-ratingdialog-1.0.8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5dcabab4c6eccd2e8aa2da09860934f1/jetified-ratingdialog-1.0.8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5dcabab4c6eccd2e8aa2da09860934f1/jetified-ratingdialog-1.0.8/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codemybrainsout.rating/ratingdialog/1.0.8/77c8c19d1f670e970f8e2ec4ad147f417eceff75/ratingdialog-1.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codemybrainsout.rating/ratingdialog/1.0.8/8e4dbcfa921d0ec6ef79bb62821ead2579855b7c/ratingdialog-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
